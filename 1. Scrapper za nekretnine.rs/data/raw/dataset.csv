@@ -1,0 +1,1014 @@
+price,area,rooms,city,municipality,floor,total_floors,building_year,elevator,terrace,parking,url
+389000.0,200.0,6.0,Beograd,Novi Beograd,6.0,6.0,1981.0,True,True,True,https://www.nekretnine.rs/oglasi/78207/
+72000.0,40.0,2.0,Beograd,Obrenovac,1.0,4.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/21605/
+420000.0,100.0,4.0,Beograd,Vračar,0.0,2.0,1924.0,False,False,True,https://www.nekretnine.rs/oglasi/1094589/
+298000.0,90.0,3.0,Beograd,Savski Venac,1.0,5.0,,True,True,False,https://www.nekretnine.rs/oglasi/64215/
+198000.0,63.0,3.0,Beograd,Novi Beograd,6.0,19.0,1980.0,True,True,True,https://www.nekretnine.rs/oglasi/1031915/
+78000.0,42.0,2.0,Beograd,Palilula,3.0,3.0,2009.0,False,True,True,https://www.nekretnine.rs/oglasi/1008589/
+750000.0,95.0,3.0,Beograd,Savski Venac,20.0,25.0,,True,True,True,https://www.nekretnine.rs/oglasi/1090945/
+357000.0,103.0,4.0,Beograd,Vračar,4.0,4.0,,False,True,True,https://www.nekretnine.rs/oglasi/1028669/
+180000.0,65.0,2.0,Beograd,Voždovac,5.0,6.0,1979.0,True,True,False,https://www.nekretnine.rs/oglasi/1048845/
+143000.0,30.0,2.0,Beograd,Stari Grad,4.0,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/1041865/
+310000.0,84.0,3.0,Beograd,Vračar,2.0,15.0,,True,True,False,https://www.nekretnine.rs/oglasi/1018835/
+475000.0,93.0,3.0,Beograd,Savski Venac,2.0,16.0,,True,True,True,https://www.nekretnine.rs/oglasi/1054107/
+189000.0,56.0,2.0,Beograd,Zvezdara,2.0,2.0,,False,False,False,https://www.nekretnine.rs/oglasi/95131/
+198800.0,71.0,3.0,Beograd,Zemun,2.0,6.0,,False,True,False,https://www.nekretnine.rs/oglasi/1066317/
+250000.0,42.0,2.0,Beograd,Vračar,6.0,7.0,,True,True,False,https://www.nekretnine.rs/oglasi/1035649/
+140000.0,44.0,2.0,Beograd,Palilula,0.0,,,True,True,True,https://www.nekretnine.rs/oglasi/1090677/
+213000.0,61.0,1.0,Beograd,Novi Beograd,1.0,4.0,,False,True,True,https://www.nekretnine.rs/oglasi/1054565/
+154500.0,60.0,2.0,Beograd,Zvezdara,,,,False,True,True,https://www.nekretnine.rs/oglasi/1053341/
+140000.0,31.0,2.0,Beograd,,4.0,7.0,,True,True,False,https://www.nekretnine.rs/oglasi/1053723/
+92000.0,29.0,1.0,Beograd,,,5.0,,True,True,False,https://www.nekretnine.rs/oglasi/1091983/
+719997.0,14.0,4.0,Beograd,Vračar,0.0,4.0,2024.0,True,True,True,https://www.nekretnine.rs/oglasi/1008379/
+323802.0,78.0,2.0,Beograd,Zvezdara,2.0,6.0,2026.0,True,False,True,https://www.nekretnine.rs/oglasi/1052101/
+123900.0,59.0,2.0,Beograd,Palilula,4.0,7.0,1978.0,True,True,True,https://www.nekretnine.rs/oglasi/1094989/
+139000.0,45.0,2.0,Beograd,Zvezdara,3.0,3.0,,True,True,True,https://www.nekretnine.rs/oglasi/1036119/
+310000.0,78.0,3.0,Beograd,Stari Grad,3.0,5.0,1938.0,True,True,False,https://www.nekretnine.rs/oglasi/1004283/
+131600.0,47.0,2.0,Beograd,Surčin,4.0,4.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97135/
+269900.0,84.0,3.0,Beograd,Voždovac,2.0,7.0,2013.0,True,True,True,https://www.nekretnine.rs/oglasi/1043871/
+600000.0,180.0,4.0,Beograd,Voždovac,5.0,5.0,,True,True,True,https://www.nekretnine.rs/oglasi/1090949/
+173900.0,46.0,2.0,Beograd,Stari Grad,2.0,2.0,1914.0,False,False,True,https://www.nekretnine.rs/oglasi/1050973/
+245000.0,65.0,2.0,Beograd,Vračar,6.0,6.0,2011.0,True,True,True,https://www.nekretnine.rs/oglasi/1028795/
+660000.0,158.0,2.0,Beograd,Čukarica,6.0,5.0,2022.0,True,True,True,https://www.nekretnine.rs/oglasi/31711/
+399000.0,140.0,5.0,Beograd,Čukarica,3.0,4.0,2002.0,False,True,True,https://www.nekretnine.rs/oglasi/31705/
+279000.0,69.0,3.0,Beograd,Rakovica,5.0,8.0,2023.0,True,True,False,https://www.nekretnine.rs/oglasi/68339/
+544000.0,119.0,4.0,Beograd,Vračar,4.0,4.0,,True,True,True,https://www.nekretnine.rs/oglasi/87385/
+159000.0,62.0,3.0,Beograd,Palilula,3.0,5.0,,False,True,True,https://www.nekretnine.rs/oglasi/1055023/
+450000.0,88.0,4.0,Beograd,Novi Beograd,6.0,11.0,,True,True,False,https://www.nekretnine.rs/oglasi/1053247/
+232500.0,75.0,3.0,Beograd,Novi Beograd,5.0,14.0,,False,True,False,https://www.nekretnine.rs/oglasi/1055569/
+187000.0,57.0,3.0,Beograd,Zemun,3.0,3.0,,False,False,False,https://www.nekretnine.rs/oglasi/1011871/
+95000.0,41.0,2.0,Beograd,Surčin,2.0,2.0,,False,True,True,https://www.nekretnine.rs/oglasi/1045929/
+220000.0,60.0,2.0,Beograd,Voždovac,1.0,2.0,,False,True,False,https://www.nekretnine.rs/oglasi/999073/
+199000.0,66.0,2.0,Beograd,Novi Beograd,1.0,5.0,,False,True,True,https://www.nekretnine.rs/oglasi/1030861/
+145000.0,57.0,2.0,Beograd,Voždovac,1.0,3.0,1970.0,False,True,True,https://www.nekretnine.rs/oglasi/1046193/
+360000.0,72.0,2.0,Beograd,Palilula,1.0,5.0,1933.0,False,True,False,https://www.nekretnine.rs/oglasi/73091/
+163225.0,65.0,2.0,Beograd,Čukarica,1.0,5.0,2025.0,True,True,False,https://www.nekretnine.rs/oglasi/51955/
+137000.0,56.0,2.0,Beograd,Čukarica,2.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1017839/
+219000.0,75.0,3.0,Beograd,Čukarica,,2.0,,False,True,False,https://www.nekretnine.rs/oglasi/1041763/
+450000.0,129.0,4.0,Beograd,Stari Grad,2.0,4.0,,True,True,True,https://www.nekretnine.rs/oglasi/64213/
+200178.0,75.0,3.0,Beograd,Rakovica,7.0,7.0,2027.0,True,True,True,https://www.nekretnine.rs/oglasi/1049899/
+505000.0,112.0,3.0,Beograd,Savski Venac,8.0,8.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/3923/
+200000.0,65.0,4.0,Beograd,Palilula,,5.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/1008415/
+138000.0,55.0,3.0,Beograd,Voždovac,4.0,,2005.0,False,False,False,https://www.nekretnine.rs/oglasi/1036407/
+109000.0,44.0,2.0,Beograd,Surčin,,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/1042279/
+138000.0,32.0,1.0,Beograd,Savski Venac,11.0,15.0,,True,True,False,https://www.nekretnine.rs/oglasi/1022999/
+155000.0,55.0,3.0,Beograd,Čukarica,2.0,4.0,1980.0,False,False,True,https://www.nekretnine.rs/oglasi/1034503/
+205000.0,104.0,4.0,Beograd,Voždovac,4.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1031325/
+180000.0,40.0,2.0,Beograd,Vračar,,5.0,,True,False,True,https://www.nekretnine.rs/oglasi/1018677/
+320000.0,86.0,3.0,Beograd,Vračar,2.0,3.0,1933.0,False,True,False,https://www.nekretnine.rs/oglasi/98069/
+770000.0,109.0,4.0,Beograd,Savski Venac,12.0,17.0,,True,False,False,https://www.nekretnine.rs/oglasi/22445/
+635000.0,125.0,4.0,Beograd,Vračar,3.0,5.0,,True,True,False,https://www.nekretnine.rs/oglasi/20595/
+127000.0,36.0,1.0,Beograd,Novi Beograd,6.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1007049/
+250888.0,57.0,2.0,Beograd,Savski Venac,1.0,22.0,,True,True,True,https://www.nekretnine.rs/oglasi/1017423/
+415000.0,110.0,3.0,Beograd,Stari Grad,4.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1006041/
+420000.0,123.0,4.0,Beograd,Čukarica,1.0,3.0,2010.0,False,True,True,https://www.nekretnine.rs/oglasi/1004355/
+320000.0,86.0,3.0,Beograd,Vračar,2.0,3.0,,False,False,False,https://www.nekretnine.rs/oglasi/5117/
+888000.0,167.0,8.0,Beograd,Stari Grad,5.0,6.0,,False,False,False,https://www.nekretnine.rs/oglasi/1038347/
+101000.0,37.0,1.0,Beograd,Zemun,5.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1034225/
+334000.0,78.0,3.0,Beograd,Vračar,4.0,7.0,,True,True,False,https://www.nekretnine.rs/oglasi/55243/
+207000.0,55.0,2.0,Beograd,Zvezdara,2.0,12.0,1970.0,True,True,False,https://www.nekretnine.rs/oglasi/1009333/
+520000.0,128.0,4.0,Beograd,Novi Beograd,1.0,6.0,1995.0,True,True,True,https://www.nekretnine.rs/oglasi/94401/
+186000.0,102.0,4.0,Beograd,Palilula,1.0,,,False,True,True,https://www.nekretnine.rs/oglasi/1030463/
+450000.0,88.0,4.0,Beograd,Stari Grad,2.0,5.0,,True,True,True,https://www.nekretnine.rs/oglasi/1049595/
+195000.0,71.0,3.0,Beograd,Zvezdara,1.0,6.0,,True,True,True,https://www.nekretnine.rs/oglasi/1043705/
+500000.0,88.0,3.0,Beograd,Savski Venac,22.0,24.0,,True,True,False,https://www.nekretnine.rs/oglasi/1007057/
+286000.0,53.0,2.0,Beograd,Novi Beograd,7.0,10.0,,True,True,True,https://www.nekretnine.rs/oglasi/1010937/
+136000.0,46.0,2.0,Beograd,Zemun,,3.0,,False,True,True,https://www.nekretnine.rs/oglasi/1018291/
+195870.0,65.0,3.0,Beograd,Čukarica,1.0,6.0,2025.0,True,True,False,https://www.nekretnine.rs/oglasi/49567/
+219000.0,119.0,5.0,Beograd,Rakovica,7.0,8.0,2005.0,True,True,False,https://www.nekretnine.rs/oglasi/72209/
+125000.0,31.0,1.0,Beograd,Palilula,0.0,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/1027469/
+170000.0,50.0,2.0,Beograd,Voždovac,4.0,,,True,True,True,https://www.nekretnine.rs/oglasi/1028369/
+862500.0,115.0,3.0,Beograd,Savski Venac,4.0,5.0,2027.0,True,True,True,https://www.nekretnine.rs/oglasi/61839/
+594000.0,142.0,3.0,Beograd,Savski Venac,,13.0,,False,True,False,https://www.nekretnine.rs/oglasi/97771/
+83000.0,46.0,2.0,Beograd,Surčin,1.0,2.0,2025.0,False,False,False,https://www.nekretnine.rs/oglasi/1033013/
+604999.0,137.0,4.0,Beograd,Voždovac,6.0,7.0,2025.0,True,True,True,https://www.nekretnine.rs/oglasi/1031079/
+190000.0,81.0,3.0,Beograd,Zvezdara,5.0,10.0,1980.0,True,True,True,https://www.nekretnine.rs/oglasi/812651/
+364000.0,91.0,4.0,Beograd,Zemun,6.0,7.0,2019.0,True,True,True,https://www.nekretnine.rs/oglasi/1007441/
+510000.0,107.0,4.0,Beograd,Palilula,1.0,2.0,1940.0,False,True,True,https://www.nekretnine.rs/oglasi/1002929/
+510000.0,93.0,3.0,Beograd,Vračar,1.0,5.0,2017.0,True,False,True,https://www.nekretnine.rs/oglasi/1040671/
+199000.0,113.0,3.0,Beograd,Savski Venac,3.0,3.0,,False,True,True,https://www.nekretnine.rs/oglasi/62791/
+365000.0,83.0,3.0,Beograd,Savski Venac,15.0,23.0,2019.0,True,True,True,https://www.nekretnine.rs/oglasi/1042685/
+199000.0,45.0,2.0,Beograd,Palilula,5.0,4.0,,True,True,False,https://www.nekretnine.rs/oglasi/1027677/
+272000.0,91.0,3.0,Beograd,Voždovac,7.0,11.0,,True,True,True,https://www.nekretnine.rs/oglasi/1016525/
+212000.0,47.0,2.0,Beograd,Palilula,2.0,6.0,,True,False,False,https://www.nekretnine.rs/oglasi/87557/
+180000.0,45.0,2.0,Beograd,Voždovac,4.0,8.0,2025.0,True,True,True,https://www.nekretnine.rs/oglasi/1043009/
+436500.0,97.0,4.0,Beograd,Stari Grad,3.0,3.0,,False,False,False,https://www.nekretnine.rs/oglasi/1030293/
+505400.0,133.0,4.0,Beograd,Voždovac,3.0,5.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/82009/
+956880.0,167.0,4.0,Beograd,Novi Beograd,10.0,10.0,2023.0,True,True,True,https://www.nekretnine.rs/oglasi/33703/
+349900.0,82.0,3.0,Beograd,Čukarica,2.0,4.0,,True,True,False,https://www.nekretnine.rs/oglasi/1012701/
+190000.0,78.0,2.0,Beograd,Zvezdara,3.0,4.0,2018.0,False,True,True,https://www.nekretnine.rs/oglasi/1001305/
+150000.0,60.0,3.0,Beograd,Zemun,2.0,3.0,,False,True,True,https://www.nekretnine.rs/oglasi/1026845/
+110000.0,42.0,2.0,Beograd,Zvezdara,-1.0,3.0,2006.0,False,False,False,https://www.nekretnine.rs/oglasi/1039463/
+280000.0,54.0,2.0,Beograd,Stari Grad,7.0,9.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/1030447/
+210000.0,79.0,3.0,Beograd,Voždovac,2.0,2.0,,False,True,True,https://www.nekretnine.rs/oglasi/1022995/
+272888.0,61.0,2.0,Beograd,Savski Venac,5.0,25.0,,True,True,True,https://www.nekretnine.rs/oglasi/1017405/
+125000.0,55.0,3.0,Beograd,Čukarica,5.0,5.0,2001.0,False,True,False,https://www.nekretnine.rs/oglasi/81895/
+450000.0,214.0,3.0,Beograd,Zvezdara,5.0,5.0,,True,True,True,https://www.nekretnine.rs/oglasi/67391/
+105000.0,58.0,2.0,Beograd,Palilula,,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/1044023/
+475200.0,132.0,4.0,Beograd,Novi Beograd,,2.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/1046241/
+210000.0,59.0,2.0,Beograd,Palilula,1.0,2.0,,False,False,False,https://www.nekretnine.rs/oglasi/1020581/
+80000.0,19.0,1.0,Beograd,Zvezdara,,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/1040759/
+350000.0,80.0,3.0,Beograd,Vračar,2.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1039477/
+135000.0,27.0,1.0,Beograd,Voždovac,2.0,4.0,2005.0,False,False,False,https://www.nekretnine.rs/oglasi/1027049/
+320000.0,53.0,2.0,Beograd,Vračar,1.0,8.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/1034537/
+660000.0,136.0,3.0,Beograd,Vračar,2.0,2.0,2007.0,True,True,True,https://www.nekretnine.rs/oglasi/1005387/
+225000.0,76.0,3.0,Beograd,Novi Beograd,1.0,7.0,,True,True,True,https://www.nekretnine.rs/oglasi/1037607/
+400000.0,58.0,2.0,Beograd,Savski Venac,,10.0,,True,False,True,https://www.nekretnine.rs/oglasi/1043255/
+499000.0,93.0,3.0,Beograd,Savski Venac,5.0,17.0,,True,True,True,https://www.nekretnine.rs/oglasi/1020047/
+87300.0,39.0,2.0,Beograd,Rakovica,1.0,2.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/1014207/
+260400.0,74.0,3.0,Beograd,Voždovac,6.0,6.0,,True,True,True,https://www.nekretnine.rs/oglasi/22223/
+157000.0,84.0,2.0,Beograd,Čukarica,2.0,2.0,1970.0,False,True,True,https://www.nekretnine.rs/oglasi/1019339/
+374000.0,117.0,4.0,Beograd,Voždovac,8.0,8.0,2025.0,True,True,True,https://www.nekretnine.rs/oglasi/1019319/
+574406.0,175.0,4.0,Beograd,Čukarica,7.0,3.0,2027.0,True,True,True,https://www.nekretnine.rs/oglasi/1014759/
+533000.0,126.0,4.0,Beograd,Zvezdara,7.0,7.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/42433/
+199000.0,64.0,3.0,Beograd,Novi Beograd,18.0,19.0,,True,True,False,https://www.nekretnine.rs/oglasi/1030275/
+635000.0,221.0,8.0,Beograd,Stari Grad,,1.0,2019.0,False,False,False,https://www.nekretnine.rs/oglasi/1018681/
+398000.0,202.0,5.0,Beograd,Palilula,4.0,4.0,2007.0,False,False,True,https://www.nekretnine.rs/oglasi/97863/
+423200.0,92.0,4.0,Beograd,Stari Grad,5.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1032127/
+210000.0,75.0,3.0,Beograd,Čukarica,0.0,7.0,1980.0,True,True,False,https://www.nekretnine.rs/oglasi/1051233/
+145000.0,95.0,2.0,Beograd,Čukarica,,2.0,,False,True,False,https://www.nekretnine.rs/oglasi/1041097/
+194039.0,67.0,2.0,Beograd,Rakovica,3.0,9.0,,True,True,False,https://www.nekretnine.rs/oglasi/43523/
+320000.0,86.0,3.0,Beograd,Vračar,2.0,,,False,True,False,https://www.nekretnine.rs/oglasi/20495/
+399000.0,106.0,3.0,Beograd,Novi Beograd,7.0,13.0,,True,True,True,https://www.nekretnine.rs/oglasi/62213/
+670000.0,105.0,3.0,Beograd,Vračar,7.0,7.0,,True,True,True,https://www.nekretnine.rs/oglasi/84437/
+153000.0,30.0,2.0,Beograd,Stari Grad,,4.0,2021.0,True,False,False,https://www.nekretnine.rs/oglasi/1027277/
+440000.0,78.0,3.0,Beograd,Novi Beograd,18.0,22.0,,True,True,False,https://www.nekretnine.rs/oglasi/1019217/
+147400.0,67.0,4.0,Beograd,Zvezdara,2.0,4.0,,True,True,True,https://www.nekretnine.rs/oglasi/34011/
+126800.0,45.0,2.0,Beograd,Surčin,2.0,2.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/1043683/
+122000.0,63.0,2.0,Beograd,Zemun,,6.0,2028.0,True,True,False,https://www.nekretnine.rs/oglasi/1025937/
+185470.0,55.0,2.0,Beograd,Zvezdara,5.0,7.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/1000185/
+328000.0,72.0,3.0,Beograd,Savski Venac,7.0,8.0,,True,True,True,https://www.nekretnine.rs/oglasi/95499/
+241388.0,65.0,2.0,Beograd,Palilula,3.0,4.0,2026.0,True,True,False,https://www.nekretnine.rs/oglasi/1036397/
+122000.0,50.0,2.0,Beograd,Čukarica,3.0,3.0,,False,False,False,https://www.nekretnine.rs/oglasi/1011375/
+214000.0,69.0,2.0,Beograd,Vračar,2.0,,,False,True,False,https://www.nekretnine.rs/oglasi/1041723/
+145000.0,30.0,1.0,Beograd,Zvezdara,,4.0,,False,False,True,https://www.nekretnine.rs/oglasi/1030841/
+470000.0,165.0,5.0,Beograd,Savski Venac,1.0,3.0,,False,False,True,https://www.nekretnine.rs/oglasi/47001/
+256888.0,55.0,2.0,Beograd,Savski Venac,1.0,,,True,True,True,https://www.nekretnine.rs/oglasi/1050535/
+130000.0,35.0,1.0,Beograd,Savski Venac,6.0,6.0,,False,True,False,https://www.nekretnine.rs/oglasi/782241/
+362000.0,80.0,3.0,Beograd,Savski Venac,2.0,18.0,,True,True,True,https://www.nekretnine.rs/oglasi/1054113/
+63000.0,26.0,1.0,Beograd,Zvezdara,1.0,3.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/1038619/
+209000.0,95.0,3.0,Beograd,Zemun,,,,False,False,False,https://www.nekretnine.rs/oglasi/41973/
+415000.0,75.0,3.0,Beograd,Novi Beograd,6.0,8.0,,True,True,False,https://www.nekretnine.rs/oglasi/1035621/
+84000.0,33.0,1.0,Beograd,Zvezdara,,3.0,,False,False,True,https://www.nekretnine.rs/oglasi/1053947/
+519000.0,134.0,4.0,Beograd,Stari Grad,12.0,12.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/31627/
+266500.0,57.0,2.0,Beograd,Savski Venac,1.0,14.0,,True,True,True,https://www.nekretnine.rs/oglasi/1021367/
+288119.0,78.0,3.0,Beograd,Novi Beograd,3.0,4.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/1036393/
+119000.0,41.0,2.0,Beograd,Zemun,,2.0,2027.0,False,True,True,https://www.nekretnine.rs/oglasi/1004673/
+115567.0,47.0,2.0,Beograd,Voždovac,2.0,1.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/1003265/
+268450.0,91.0,4.0,Beograd,Zvezdara,1.0,4.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/1012547/
+327500.0,108.0,4.0,Beograd,Zemun,,3.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/1029379/
+268155.0,91.0,4.0,Beograd,Zvezdara,2.0,3.0,,True,True,True,https://www.nekretnine.rs/oglasi/1047473/
+950000.0,211.0,5.0,Beograd,Savski Venac,8.0,8.0,2025.0,True,True,True,https://www.nekretnine.rs/oglasi/31731/
+168807.0,77.0,3.0,Beograd,Zvezdara,4.0,4.0,2025.0,True,True,True,https://www.nekretnine.rs/oglasi/1056099/
+85000.0,56.0,2.0,Beograd,Palilula,3.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1054381/
+120000.0,51.0,2.0,Beograd,Zvezdara,,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/54141/
+347340.0,124.0,4.0,Beograd,Palilula,4.0,,,True,True,False,https://www.nekretnine.rs/oglasi/1091269/
+399000.0,103.0,3.0,Beograd,Vračar,3.0,1.0,,False,True,True,https://www.nekretnine.rs/oglasi/1046275/
+150000.0,61.0,4.0,Beograd,Voždovac,,4.0,,False,False,True,https://www.nekretnine.rs/oglasi/36735/
+160000.0,66.0,2.0,Beograd,Voždovac,1.0,3.0,2010.0,False,True,True,https://www.nekretnine.rs/oglasi/1035979/
+210000.0,55.0,3.0,Beograd,Stari Grad,4.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1007435/
+395000.0,130.0,4.0,Beograd,Zemun,,3.0,,True,True,True,https://www.nekretnine.rs/oglasi/1034113/
+144162.0,80.0,3.0,Beograd,Grocka,3.0,4.0,2025.0,False,False,True,https://www.nekretnine.rs/oglasi/55327/
+336000.0,53.0,2.0,Beograd,Savski Venac,4.0,5.0,,True,False,True,https://www.nekretnine.rs/oglasi/1038885/
+288587.0,73.0,3.0,Beograd,Zvezdara,2.0,6.0,,False,False,False,https://www.nekretnine.rs/oglasi/1009327/
+350000.0,121.0,4.0,Beograd,Vračar,6.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/50495/
+524800.0,116.0,4.0,Beograd,Savski Venac,6.0,,,True,True,True,https://www.nekretnine.rs/oglasi/72829/
+249500.0,95.0,4.0,Beograd,Palilula,,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1020071/
+145000.0,50.0,2.0,Beograd,Čukarica,,2.0,,False,True,False,https://www.nekretnine.rs/oglasi/1055165/
+313000.0,68.0,3.0,Beograd,Stari Grad,5.0,5.0,,True,False,False,https://www.nekretnine.rs/oglasi/1042485/
+119000.0,47.0,2.0,Beograd,Zemun,,4.0,,True,True,False,https://www.nekretnine.rs/oglasi/1020709/
+129954.0,48.0,2.0,Beograd,Voždovac,2.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1046551/
+203000.0,58.0,2.0,Beograd,Savski Venac,3.0,3.0,1986.0,False,True,False,https://www.nekretnine.rs/oglasi/1011721/
+170000.0,61.0,3.0,Beograd,Voždovac,5.0,10.0,,True,True,False,https://www.nekretnine.rs/oglasi/1030265/
+115000.0,41.0,2.0,Beograd,Palilula,3.0,4.0,,False,False,True,https://www.nekretnine.rs/oglasi/1005373/
+130000.0,131.0,2.0,Beograd,Zemun,,3.0,2000.0,False,True,True,https://www.nekretnine.rs/oglasi/1009045/
+146192.0,54.0,3.0,Beograd,Zvezdara,,2.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/21845/
+120000.0,41.0,2.0,Beograd,Zvezdara,2.0,3.0,2025.0,True,True,True,https://www.nekretnine.rs/oglasi/1043381/
+82800.0,36.0,2.0,Beograd,Čukarica,0.0,1.0,,False,True,False,https://www.nekretnine.rs/oglasi/1019209/
+400000.0,107.0,4.0,Beograd,Vračar,1.0,2.0,,False,True,False,https://www.nekretnine.rs/oglasi/1030825/
+204999.0,65.0,3.0,Beograd,Zvezdara,4.0,5.0,,True,True,False,https://www.nekretnine.rs/oglasi/1021583/
+515000.0,113.0,3.0,Beograd,Savski Venac,11.0,,,True,True,True,https://www.nekretnine.rs/oglasi/999917/
+288400.0,77.0,3.0,Beograd,Zemun,10.0,10.0,,False,False,False,https://www.nekretnine.rs/oglasi/42339/
+159900.0,57.0,2.0,Beograd,Palilula,,2.0,,False,False,False,https://www.nekretnine.rs/oglasi/37959/
+138400.0,35.0,2.0,Beograd,Novi Beograd,,2.0,,True,True,False,https://www.nekretnine.rs/oglasi/1019989/
+101200.0,46.0,2.0,Beograd,Zvezdara,,,2025.0,False,True,False,https://www.nekretnine.rs/oglasi/1034145/
+395000.0,75.0,2.0,Beograd,Savski Venac,1.0,,,True,True,True,https://www.nekretnine.rs/oglasi/35247/
+143352.0,54.0,2.0,Beograd,Novi Beograd,2.0,3.0,,True,True,False,https://www.nekretnine.rs/oglasi/46649/
+155000.0,55.0,2.0,Beograd,Palilula,3.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1019957/
+615000.0,268.0,4.0,Beograd,Voždovac,1.0,3.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/41749/
+267000.0,89.0,3.0,Beograd,Zvezdara,4.0,,,True,True,True,https://www.nekretnine.rs/oglasi/44333/
+257000.0,78.0,4.0,Beograd,Voždovac,2.0,3.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/41747/
+150000.0,30.0,1.0,Beograd,Vračar,,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/1043889/
+475000.0,96.0,4.0,Beograd,Novi Beograd,4.0,5.0,,True,True,False,https://www.nekretnine.rs/oglasi/1043795/
+200000.0,63.0,3.0,Beograd,Zemun,1.0,4.0,,True,True,True,https://www.nekretnine.rs/oglasi/1017121/
+1850000.0,312.0,5.0,Beograd,Čukarica,14.0,15.0,,False,False,False,https://www.nekretnine.rs/oglasi/88501/
+235000.0,71.0,3.0,Beograd,Voždovac,2.0,,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/41753/
+235000.0,76.0,3.0,Beograd,Voždovac,5.0,20.0,,True,True,False,https://www.nekretnine.rs/oglasi/1055149/
+468000.0,129.0,4.0,Beograd,,5.0,5.0,2023.0,True,True,True,https://www.nekretnine.rs/oglasi/1005093/
+338000.0,64.0,4.0,Beograd,,4.0,4.0,2012.0,True,True,False,https://www.nekretnine.rs/oglasi/1031367/
+650000.0,152.0,4.0,Beograd,,5.0,5.0,,True,True,False,https://www.nekretnine.rs/oglasi/1008635/
+205000.0,52.0,,Beograd,Vračar,,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1046247/
+319000.0,60.0,3.0,Beograd,,3.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1049039/
+385000.0,82.0,3.0,Beograd,,20.0,23.0,2019.0,False,True,False,https://www.nekretnine.rs/oglasi/32693/
+225000.0,60.0,3.0,Beograd,Voždovac,,4.0,,True,True,True,https://www.nekretnine.rs/oglasi/1040193/
+400000.0,195.0,,Beograd,Savski Venac,,,,False,False,False,https://www.nekretnine.rs/oglasi/27971/
+121473.0,61.0,2.0,Beograd,Obrenovac,4.0,4.0,2026.0,True,True,False,https://www.nekretnine.rs/oglasi/998913/
+71150.0,43.0,1.0,Beograd,Obrenovac,,3.0,2026.0,False,False,True,https://www.nekretnine.rs/oglasi/999083/
+129000.0,52.0,,Beograd,Zvezdara,1.0,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/1047333/
+78880.0,39.0,2.0,Beograd,,,2.0,2026.0,False,True,False,https://www.nekretnine.rs/oglasi/1016079/
+110000.0,41.0,2.0,Beograd,,2.0,4.0,2025.0,True,True,True,https://www.nekretnine.rs/oglasi/1008121/
+286888.0,62.0,2.0,Beograd,,21.0,25.0,,False,True,False,https://www.nekretnine.rs/oglasi/1036347/
+79000.0,44.0,2.0,Beograd,Palilula,3.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1061371/
+278000.0,136.0,6.0,Beograd,Palilula,4.0,4.0,,False,True,True,https://www.nekretnine.rs/oglasi/1007261/
+284795.0,103.0,5.0,Beograd,Čukarica,3.0,3.0,,False,True,True,https://www.nekretnine.rs/oglasi/1052151/
+129930.0,71.0,3.0,Beograd,Zemun,2.0,2.0,,False,True,True,https://www.nekretnine.rs/oglasi/1040165/
+374900.0,71.0,3.0,Beograd,Vračar,3.0,4.0,,True,True,True,https://www.nekretnine.rs/oglasi/1052097/
+199920.0,85.0,3.0,Beograd,Zvezdara,7.0,7.0,,True,True,True,https://www.nekretnine.rs/oglasi/1016725/
+379800.0,107.0,4.0,Beograd,Vračar,2.0,7.0,,True,True,True,https://www.nekretnine.rs/oglasi/1053181/
+439000.0,111.0,3.0,Beograd,Stari Grad,2.0,6.0,,True,True,True,https://www.nekretnine.rs/oglasi/1028585/
+189995.0,79.0,3.0,Beograd,Čukarica,0.0,2.0,2018.0,False,True,True,https://www.nekretnine.rs/oglasi/1040145/
+160000.0,54.0,2.0,Beograd,Zvezdara,4.0,4.0,2026.0,True,True,False,https://www.nekretnine.rs/oglasi/1094563/
+140000.0,50.0,2.5,Beograd,Rakovica,4.0,4.0,1970.0,False,True,False,https://www.nekretnine.rs/oglasi/1094511/
+150700.0,67.0,3.0,Beograd,Rakovica,3.0,5.0,,False,True,True,https://www.nekretnine.rs/oglasi/1004855/
+365000.0,97.0,3.0,Beograd,Zvezdara,0.0,3.0,2026.0,True,True,False,https://www.nekretnine.rs/oglasi/1094505/
+149900.0,79.0,3.0,Beograd,Čukarica,,3.0,,False,True,True,https://www.nekretnine.rs/oglasi/1029041/
+169970.0,71.0,3.0,Beograd,Voždovac,,4.0,,False,True,True,https://www.nekretnine.rs/oglasi/1028583/
+330000.0,92.0,4.0,Beograd,Rakovica,2.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1086561/
+359000.0,100.0,2.0,Beograd,Stari Grad,6.0,6.0,,True,False,False,https://www.nekretnine.rs/oglasi/1049989/
+790000.0,114.0,4.0,Beograd,Stari Grad,5.0,6.0,,True,True,True,https://www.nekretnine.rs/oglasi/31677/
+399000.0,118.0,4.0,Beograd,Voždovac,4.0,4.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/1023033/
+300000.0,75.0,2.0,Beograd,Novi Beograd,3.0,6.0,,True,True,True,https://www.nekretnine.rs/oglasi/33455/
+440000.0,107.0,3.0,Beograd,Novi Beograd,9.0,9.0,2026.0,True,False,False,https://www.nekretnine.rs/oglasi/1069369/
+74800.0,44.0,2.0,Beograd,Čukarica,2.0,2.0,2025.0,False,False,True,https://www.nekretnine.rs/oglasi/1067355/
+98600.0,58.0,1.0,Beograd,Čukarica,2.0,2.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/1067581/
+114000.0,73.0,3.0,Beograd,Grocka,1.0,1.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/1016145/
+349800.0,105.0,6.0,Beograd,Savski Venac,1.0,5.0,1939.0,True,True,True,https://www.nekretnine.rs/oglasi/877811/
+420000.0,142.0,4.0,Beograd,Zemun,2.0,3.0,2008.0,True,True,True,https://www.nekretnine.rs/oglasi/72139/
+184900.0,52.0,3.0,Beograd,Voždovac,2.0,4.0,1968.0,False,True,False,https://www.nekretnine.rs/oglasi/1020661/
+195000.0,63.0,3.0,Beograd,Zvezdara,1.0,4.0,2018.0,False,True,True,https://www.nekretnine.rs/oglasi/73097/
+489900.0,99.0,4.0,Beograd,Voždovac,3.0,7.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/42347/
+285000.0,66.0,3.0,Beograd,Savski Venac,2.0,3.0,1936.0,False,True,False,https://www.nekretnine.rs/oglasi/74009/
+1080000.0,400.0,5.0,Beograd,Zvezdara,5.0,5.0,2016.0,True,True,True,https://www.nekretnine.rs/oglasi/74965/
+87000.0,33.0,2.0,Beograd,Čukarica,2.0,5.0,2001.0,False,True,False,https://www.nekretnine.rs/oglasi/1025151/
+130000.0,92.0,3.0,Beograd,Palilula,1.0,2.0,2020.0,False,False,True,https://www.nekretnine.rs/oglasi/42269/
+199000.0,40.0,2.0,Beograd,Vračar,1.0,1.0,,False,True,False,https://www.nekretnine.rs/oglasi/1058113/
+240000.0,88.0,3.0,Beograd,Voždovac,7.0,7.0,2014.0,True,True,False,https://www.nekretnine.rs/oglasi/1056045/
+520000.0,127.0,4.0,Beograd,Voždovac,4.0,4.0,2020.0,True,False,True,https://www.nekretnine.rs/oglasi/1041771/
+349000.0,94.0,4.0,Beograd,Zemun,1.0,5.0,1970.0,False,True,False,https://www.nekretnine.rs/oglasi/31243/
+116000.0,43.0,2.0,Beograd,Surčin,2.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97593/
+505400.0,133.0,4.0,Beograd,Voždovac,4.0,4.0,2025.0,True,True,True,https://www.nekretnine.rs/oglasi/1001203/
+196800.0,41.0,2.0,Beograd,Zemun,3.0,7.0,2018.0,False,True,False,https://www.nekretnine.rs/oglasi/31299/
+721000.0,205.0,5.0,Beograd,Voždovac,4.0,4.0,2008.0,True,True,True,https://www.nekretnine.rs/oglasi/75861/
+296000.0,74.0,4.0,Beograd,Zvezdara,2.0,3.0,2023.0,True,True,True,https://www.nekretnine.rs/oglasi/1052595/
+371900.0,81.0,3.0,Beograd,Novi Beograd,1.0,6.0,2016.0,True,True,False,https://www.nekretnine.rs/oglasi/1021069/
+139000.0,86.0,4.0,Beograd,Grocka,1.0,1.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/1028041/
+516900.0,114.0,3.0,Beograd,Savski Venac,8.0,8.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/42423/
+185000.0,50.0,2.0,Beograd,Zemun,5.0,5.0,2023.0,True,True,False,https://www.nekretnine.rs/oglasi/1003205/
+303000.0,118.0,5.0,Beograd,Zvezdara,6.0,6.0,2014.0,True,True,False,https://www.nekretnine.rs/oglasi/495525/
+272427.0,79.0,3.0,Beograd,Zemun,1.0,1.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/1052215/
+133000.0,50.0,2.0,Beograd,Zvezdara,3.0,3.0,2009.0,False,False,False,https://www.nekretnine.rs/oglasi/1039615/
+349000.0,134.0,5.0,Beograd,Stari Grad,4.0,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/999891/
+349000.0,90.0,4.0,Beograd,Vračar,4.0,6.0,1970.0,True,True,False,https://www.nekretnine.rs/oglasi/1028051/
+183000.0,51.0,2.0,Beograd,Voždovac,3.0,4.0,2012.0,False,True,False,https://www.nekretnine.rs/oglasi/1013205/
+384000.0,102.0,4.0,Beograd,Čukarica,5.0,5.0,1980.0,False,True,False,https://www.nekretnine.rs/oglasi/63399/
+227500.0,65.0,3.0,Beograd,Zvezdara,4.0,4.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/1024997/
+350000.0,77.0,3.0,Beograd,Savski Venac,2.0,2.0,2015.0,False,True,True,https://www.nekretnine.rs/oglasi/797637/
+92000.0,55.0,3.0,Beograd,Zvezdara,2.0,4.0,2010.0,False,True,False,https://www.nekretnine.rs/oglasi/446181/
+180000.0,63.0,3.0,Beograd,Zvezdara,3.0,4.0,2010.0,False,True,False,https://www.nekretnine.rs/oglasi/30935/
+230000.0,67.0,3.0,Beograd,Palilula,1.0,5.0,2022.0,True,True,False,https://www.nekretnine.rs/oglasi/1035423/
+795000.0,116.0,4.0,Beograd,Stari Grad,5.0,6.0,,False,True,False,https://www.nekretnine.rs/oglasi/30525/
+160000.0,84.0,3.0,Beograd,Zemun,2.0,2.0,,False,True,True,https://www.nekretnine.rs/oglasi/31035/
+417000.0,95.0,3.0,Beograd,Stari Grad,2.0,7.0,,True,False,False,https://www.nekretnine.rs/oglasi/1004297/
+249000.0,56.0,2.0,Beograd,Novi Beograd,2.0,7.0,,True,True,False,https://www.nekretnine.rs/oglasi/1039285/
+160000.0,80.0,3.0,Beograd,Palilula,4.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1051639/
+395000.0,81.0,3.0,Beograd,Savski Venac,6.0,8.0,,True,True,True,https://www.nekretnine.rs/oglasi/1029697/
+175000.0,57.0,2.0,Beograd,Zvezdara,1.0,3.0,,False,True,True,https://www.nekretnine.rs/oglasi/1038829/
+315000.0,78.0,3.0,Beograd,Stari Grad,4.0,4.0,,True,False,False,https://www.nekretnine.rs/oglasi/1028581/
+278000.0,135.0,6.0,Beograd,Palilula,4.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/30667/
+515000.0,103.0,4.0,Beograd,Vračar,3.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1018383/
+275000.0,73.0,3.0,Beograd,Zvezdara,4.0,6.0,,False,True,True,https://www.nekretnine.rs/oglasi/1055611/
+244000.0,61.0,3.0,Beograd,Zemun,2.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1051133/
+195000.0,48.0,2.0,Beograd,Palilula,4.0,5.0,,False,True,True,https://www.nekretnine.rs/oglasi/1024087/
+290000.0,54.0,2.0,Beograd,Savski Venac,5.0,15.0,2022.0,True,True,True,https://www.nekretnine.rs/oglasi/32869/
+420000.0,136.0,3.0,Beograd,Voždovac,3.0,4.0,,False,True,True,https://www.nekretnine.rs/oglasi/1051643/
+685000.0,130.0,4.0,Beograd,Vračar,3.0,4.0,,True,True,True,https://www.nekretnine.rs/oglasi/1041707/
+330000.0,94.0,4.0,Beograd,Zvezdara,3.0,4.0,,True,True,False,https://www.nekretnine.rs/oglasi/1028043/
+230000.0,70.0,2.0,Beograd,Novi Beograd,2.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1004315/
+1510000.0,176.0,4.0,Beograd,Savski Venac,18.0,24.0,,False,True,False,https://www.nekretnine.rs/oglasi/1058827/
+199900.0,64.0,3.0,Beograd,Novi Beograd,18.0,19.0,,True,True,True,https://www.nekretnine.rs/oglasi/1028055/
+163000.0,37.0,2.0,Beograd,Zemun,4.0,7.0,,True,True,True,https://www.nekretnine.rs/oglasi/832391/
+280000.0,70.0,2.0,Beograd,Novi Beograd,2.0,10.0,2023.0,True,True,True,https://www.nekretnine.rs/oglasi/33395/
+66500.0,38.0,2.0,Beograd,Grocka,3.0,3.0,2024.0,False,True,True,https://www.nekretnine.rs/oglasi/1065389/
+790000.0,196.0,4.0,Beograd,Novi Beograd,3.0,7.0,1998.0,True,True,True,https://www.nekretnine.rs/oglasi/77431/
+247500.0,66.0,3.0,Beograd,Zemun,5.0,6.0,,True,True,True,https://www.nekretnine.rs/oglasi/1018857/
+161000.0,85.0,4.0,Beograd,Zemun,1.0,1.0,,False,False,False,https://www.nekretnine.rs/oglasi/30793/
+135000.0,70.0,3.0,Beograd,Grocka,2.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1041917/
+459000.0,142.0,4.0,Beograd,Čukarica,2.0,2.0,,False,True,False,https://www.nekretnine.rs/oglasi/1057333/
+119000.0,34.0,2.0,Beograd,Palilula,2.0,5.0,,False,True,True,https://www.nekretnine.rs/oglasi/1044327/
+397000.0,140.0,5.0,Beograd,Čukarica,3.0,4.0,,False,True,True,https://www.nekretnine.rs/oglasi/341647/
+194000.0,73.0,3.0,Beograd,Zemun,19.0,22.0,,True,False,True,https://www.nekretnine.rs/oglasi/1040143/
+329000.0,110.0,3.0,Beograd,Vračar,2.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1017803/
+208000.0,52.0,2.0,Beograd,Rakovica,1.0,6.0,,False,True,False,https://www.nekretnine.rs/oglasi/1004309/
+520000.0,175.0,5.0,Beograd,Zemun,2.0,2.0,,False,True,True,https://www.nekretnine.rs/oglasi/1040667/
+800000.0,124.0,4.0,Beograd,Stari Grad,2.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/94507/
+169900.0,63.0,3.0,Beograd,Novi Beograd,6.0,6.0,,True,False,False,https://www.nekretnine.rs/oglasi/1040545/
+360000.0,104.0,5.0,Beograd,Novi Beograd,1.0,4.0,,True,True,False,https://www.nekretnine.rs/oglasi/1008777/
+189000.0,70.0,3.0,Beograd,Voždovac,1.0,7.0,,True,True,False,https://www.nekretnine.rs/oglasi/1004851/
+148000.0,74.0,3.0,Beograd,Sopot,1.0,2.0,,False,True,False,https://www.nekretnine.rs/oglasi/1058715/
+440000.0,78.0,3.0,Beograd,Novi Beograd,18.0,22.0,,False,True,False,https://www.nekretnine.rs/oglasi/1057611/
+379900.0,112.0,3.0,Beograd,Vračar,1.0,1.0,,False,True,False,https://www.nekretnine.rs/oglasi/1040669/
+284000.0,142.0,5.0,Beograd,Voždovac,1.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1016063/
+150000.0,59.0,3.0,Beograd,Zemun,4.0,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/1028703/
+225000.0,60.0,2.0,Beograd,Novi Beograd,7.0,9.0,,True,False,False,https://www.nekretnine.rs/oglasi/1028477/
+269000.0,79.0,3.0,Beograd,Zvezdara,1.0,5.0,,True,True,False,https://www.nekretnine.rs/oglasi/1006977/
+190000.0,76.0,3.0,Beograd,Zvezdara,5.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1004859/
+195000.0,44.0,3.0,Beograd,Vračar,2.0,2.0,,True,True,False,https://www.nekretnine.rs/oglasi/1004447/
+125000.0,50.0,2.0,Beograd,Zvezdara,6.0,6.0,,True,False,False,https://www.nekretnine.rs/oglasi/1020185/
+550000.0,109.0,4.0,Beograd,Savski Venac,15.0,20.0,2024.0,True,True,True,https://www.nekretnine.rs/oglasi/1020001/
+250000.0,95.0,4.0,Beograd,Rakovica,2.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/63227/
+492800.0,112.0,3.0,Beograd,Zvezdara,6.0,9.0,,True,True,True,https://www.nekretnine.rs/oglasi/1004891/
+255000.0,69.0,3.0,Beograd,Novi Beograd,5.0,8.0,,True,True,False,https://www.nekretnine.rs/oglasi/1016837/
+205000.0,65.0,3.0,Beograd,Zvezdara,4.0,6.0,,True,False,False,https://www.nekretnine.rs/oglasi/1004861/
+189000.0,72.0,3.0,Beograd,Vračar,18.0,20.0,,False,True,False,https://www.nekretnine.rs/oglasi/30751/
+360000.0,91.0,4.0,Beograd,Novi Beograd,3.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1042425/
+259000.0,70.0,3.0,Beograd,Voždovac,3.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1052079/
+268000.0,103.0,4.0,Beograd,Čukarica,5.0,7.0,,True,True,True,https://www.nekretnine.rs/oglasi/1048727/
+375000.0,71.0,3.0,Beograd,Vračar,3.0,4.0,,True,True,True,https://www.nekretnine.rs/oglasi/41685/
+149000.0,51.0,2.0,Beograd,Palilula,1.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/31867/
+465000.0,110.0,5.0,Beograd,Stari Grad,3.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1029103/
+198900.0,65.0,3.0,Beograd,Čukarica,3.0,5.0,,True,True,True,https://www.nekretnine.rs/oglasi/1028579/
+191269.0,56.0,2.0,Beograd,Zemun,0.0,1.0,2026.0,False,False,True,https://www.nekretnine.rs/oglasi/1040879/
+455000.0,86.0,3.0,Beograd,Vračar,3.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1017201/
+219000.0,59.0,2.0,Beograd,Novi Beograd,6.0,9.0,,True,True,False,https://www.nekretnine.rs/oglasi/1004755/
+360000.0,85.0,3.0,Beograd,Vračar,1.0,4.0,,True,True,True,https://www.nekretnine.rs/oglasi/1016713/
+370000.0,157.0,4.0,Beograd,Zvezdara,5.0,5.0,,True,True,True,https://www.nekretnine.rs/oglasi/337687/
+255000.0,57.0,2.0,Beograd,Savski Venac,2.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1030901/
+274500.0,61.0,3.0,Beograd,Novi Beograd,1.0,4.0,,False,True,True,https://www.nekretnine.rs/oglasi/1006025/
+419000.0,103.0,4.0,Beograd,Zemun,6.0,8.0,,True,True,False,https://www.nekretnine.rs/oglasi/1030729/
+255000.0,64.0,3.0,Beograd,Vračar,1.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1016715/
+475000.0,91.0,3.0,Beograd,Savski Venac,6.0,20.0,,True,True,False,https://www.nekretnine.rs/oglasi/1051165/
+83000.0,21.0,1.0,Beograd,Voždovac,2.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1016159/
+210000.0,84.0,3.0,Beograd,Zvezdara,6.0,8.0,,True,True,False,https://www.nekretnine.rs/oglasi/828735/
+200000.0,47.0,2.0,Beograd,Novi Beograd,2.0,6.0,,True,True,True,https://www.nekretnine.rs/oglasi/1007281/
+368000.0,87.0,3.0,Beograd,Savski Venac,1.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1060809/
+132999.0,50.0,2.0,Beograd,Palilula,,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1060603/
+400000.0,79.0,3.0,Beograd,Vračar,2.0,5.0,,False,True,True,https://www.nekretnine.rs/oglasi/1028573/
+320000.0,88.0,4.0,Beograd,Voždovac,5.0,7.0,,True,True,False,https://www.nekretnine.rs/oglasi/1018817/
+1390000.0,316.0,6.0,Beograd,Vračar,4.0,6.0,2015.0,True,True,True,https://www.nekretnine.rs/oglasi/77027/
+450000.0,96.0,5.0,Beograd,Stari Grad,5.0,5.0,,True,False,False,https://www.nekretnine.rs/oglasi/1005395/
+338000.0,110.0,5.0,Beograd,Voždovac,4.0,4.0,,True,True,True,https://www.nekretnine.rs/oglasi/1029107/
+100000.0,46.0,3.0,Beograd,Zemun,2.0,2.0,,False,True,True,https://www.nekretnine.rs/oglasi/1016151/
+399000.0,112.0,4.0,Beograd,Vračar,4.0,4.0,,True,True,False,https://www.nekretnine.rs/oglasi/145037/
+350000.0,100.0,4.0,Beograd,Palilula,5.0,5.0,,True,True,False,https://www.nekretnine.rs/oglasi/74947/
+595000.0,120.0,5.0,Beograd,Palilula,4.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/30385/
+385000.0,84.0,3.0,Beograd,Novi Beograd,4.0,9.0,,True,True,True,https://www.nekretnine.rs/oglasi/1051651/
+350000.0,76.0,3.0,Beograd,Novi Beograd,3.0,9.0,,True,True,True,https://www.nekretnine.rs/oglasi/1051655/
+156000.0,34.0,2.0,Beograd,Zvezdara,16.0,16.0,1970.0,True,True,False,https://www.nekretnine.rs/oglasi/1029589/
+204900.0,61.0,3.0,Beograd,Zvezdara,9.0,11.0,,True,True,False,https://www.nekretnine.rs/oglasi/1055265/
+128000.0,47.0,3.0,Beograd,Zemun,4.0,4.0,2020.0,False,True,False,https://www.nekretnine.rs/oglasi/1055013/
+195000.0,68.0,2.0,Beograd,Vračar,1.0,2.0,1933.0,False,True,False,https://www.nekretnine.rs/oglasi/1034261/
+265000.0,53.0,2.0,Beograd,Stari Grad,1.0,3.0,1936.0,False,True,False,https://www.nekretnine.rs/oglasi/1006119/
+385000.0,91.0,4.0,Beograd,Zvezdara,7.0,7.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/42503/
+285000.0,58.0,3.0,Beograd,Stari Grad,4.0,4.0,2014.0,True,True,False,https://www.nekretnine.rs/oglasi/1051741/
+116000.0,43.0,2.0,Beograd,Surčin,1.0,3.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/1023027/
+187000.0,72.0,3.0,Beograd,Zvezdara,6.0,6.0,1968.0,False,True,False,https://www.nekretnine.rs/oglasi/524711/
+169800.0,67.0,3.0,Beograd,Surčin,2.0,3.0,2023.0,False,True,True,https://www.nekretnine.rs/oglasi/1048183/
+142000.0,57.0,2.0,Beograd,Zemun,1.0,3.0,1970.0,False,True,False,https://www.nekretnine.rs/oglasi/1006547/
+125200.0,44.0,2.0,Beograd,Surčin,1.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97617/
+119900.0,44.0,2.0,Beograd,Surčin,2.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97231/
+99900.0,66.0,3.0,Beograd,Palilula,1.0,1.0,1972.0,False,False,True,https://www.nekretnine.rs/oglasi/36473/
+116000.0,43.0,2.0,Beograd,Surčin,1.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97139/
+110700.0,82.0,3.0,Beograd,Zemun,2.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1059921/
+275000.0,75.0,2.0,Beograd,Novi Beograd,4.0,6.0,,True,False,False,https://www.nekretnine.rs/oglasi/94907/
+169000.0,69.0,3.0,Beograd,Surčin,4.0,4.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97489/
+125200.0,44.0,2.0,Beograd,Surčin,1.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97481/
+335000.0,110.0,5.0,Beograd,Novi Beograd,6.0,7.0,1985.0,True,True,True,https://www.nekretnine.rs/oglasi/1008509/
+118300.0,42.0,2.0,Beograd,Surčin,4.0,4.0,2024.0,False,True,True,https://www.nekretnine.rs/oglasi/1000383/
+225000.0,56.0,3.0,Beograd,Zvezdara,4.0,4.0,2017.0,False,True,False,https://www.nekretnine.rs/oglasi/1044251/
+156750.0,57.0,3.0,Beograd,Surčin,3.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97351/
+145000.0,50.0,3.0,Beograd,Surčin,3.0,3.0,2022.0,False,False,False,https://www.nekretnine.rs/oglasi/97245/
+132000.0,77.0,3.0,Beograd,Grocka,2.0,3.0,2000.0,False,True,False,https://www.nekretnine.rs/oglasi/95927/
+169000.0,69.0,3.0,Beograd,Surčin,4.0,4.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97487/
+200000.0,53.0,3.0,Beograd,Rakovica,1.0,9.0,2025.0,True,True,True,https://www.nekretnine.rs/oglasi/1024669/
+169000.0,69.0,3.0,Beograd,Surčin,4.0,4.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/999069/
+360000.0,80.0,2.0,Beograd,Voždovac,1.0,3.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/1016147/
+252000.0,98.0,3.0,Beograd,Voždovac,4.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1060829/
+116000.0,43.0,1.0,Beograd,Surčin,1.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97495/
+185000.0,45.0,2.0,Beograd,Zemun,1.0,2.0,,False,False,False,https://www.nekretnine.rs/oglasi/31755/
+118300.0,42.0,1.0,Beograd,Surčin,4.0,4.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97611/
+156750.0,57.0,3.0,Beograd,Surčin,3.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97621/
+156750.0,57.0,3.0,Beograd,Surčin,3.0,2.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97111/
+415000.0,110.0,4.0,Beograd,Zvezdara,5.0,6.0,2003.0,False,True,False,https://www.nekretnine.rs/oglasi/31811/
+164000.0,63.0,4.0,Beograd,Rakovica,3.0,3.0,1970.0,False,False,False,https://www.nekretnine.rs/oglasi/1006535/
+156750.0,57.0,3.0,Beograd,Surčin,3.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/1042281/
+466000.0,99.0,4.0,Beograd,Zvezdara,5.0,5.0,2022.0,False,True,True,https://www.nekretnine.rs/oglasi/1038669/
+440000.0,129.0,5.0,Beograd,Stari Grad,3.0,4.0,1926.0,False,True,False,https://www.nekretnine.rs/oglasi/1017597/
+117000.0,39.0,2.0,Beograd,Surčin,3.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97115/
+170000.0,85.0,3.0,Beograd,Voždovac,6.0,7.0,,False,False,False,https://www.nekretnine.rs/oglasi/1059749/
+750000.0,153.0,4.0,Beograd,Stari Grad,5.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1030235/
+116000.0,43.0,2.0,Beograd,Surčin,1.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97461/
+390000.0,72.0,3.0,Beograd,Savski Venac,13.0,15.0,,True,True,True,https://www.nekretnine.rs/oglasi/999021/
+219000.0,108.0,5.0,Beograd,Rakovica,7.0,8.0,2008.0,True,True,False,https://www.nekretnine.rs/oglasi/48581/
+239350.0,67.0,3.0,Beograd,Čukarica,9.0,9.0,2024.0,True,True,True,https://www.nekretnine.rs/oglasi/1049563/
+460000.0,130.0,4.0,Beograd,Čukarica,2.0,3.0,2016.0,False,True,False,https://www.nekretnine.rs/oglasi/1042025/
+163800.0,78.0,3.0,Beograd,Zvezdara,3.0,3.0,2025.0,True,True,True,https://www.nekretnine.rs/oglasi/87271/
+600000.0,134.0,8.0,Beograd,Zemun,1.0,2.0,1900.0,False,True,False,https://www.nekretnine.rs/oglasi/30985/
+145000.0,50.0,3.0,Beograd,Surčin,3.0,3.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/1023029/
+320000.0,71.0,3.0,Beograd,Zemun,3.0,8.0,,True,True,True,https://www.nekretnine.rs/oglasi/1051437/
+189000.0,70.0,3.0,Beograd,Voždovac,1.0,6.0,1993.0,True,True,False,https://www.nekretnine.rs/oglasi/1051173/
+177000.0,48.0,2.0,Beograd,Voždovac,3.0,3.0,2012.0,False,True,False,https://www.nekretnine.rs/oglasi/1014159/
+127600.0,44.0,1.0,Beograd,Surčin,3.0,3.0,2025.0,False,False,True,https://www.nekretnine.rs/oglasi/97493/
+399000.0,85.0,3.0,Beograd,Novi Beograd,2.0,6.0,,False,True,False,https://www.nekretnine.rs/oglasi/1018165/
+1850000.0,283.0,4.0,Beograd,Vračar,6.0,7.0,2022.0,True,True,True,https://www.nekretnine.rs/oglasi/22093/
+260000.0,85.0,3.0,Beograd,Voždovac,3.0,4.0,2010.0,False,True,False,https://www.nekretnine.rs/oglasi/48413/
+159000.0,37.0,2.0,Beograd,Zvezdara,2.0,3.0,2019.0,False,True,True,https://www.nekretnine.rs/oglasi/999215/
+92000.0,45.0,2.0,Beograd,Obrenovac,4.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1059215/
+125400.0,44.0,1.0,Beograd,Surčin,1.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97137/
+242000.0,71.0,3.0,Beograd,Zemun,2.0,4.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/1003505/
+119900.0,44.0,2.0,Beograd,Surčin,2.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/1001137/
+950000.0,239.0,6.0,Beograd,Stari Grad,1.0,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/1055415/
+228000.0,69.0,3.0,Beograd,Novi Beograd,3.0,4.0,1995.0,True,True,False,https://www.nekretnine.rs/oglasi/1044687/
+131600.0,47.0,2.0,Beograd,Surčin,4.0,4.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97133/
+136300.0,47.0,2.0,Beograd,Surčin,3.0,4.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97371/
+430000.0,144.0,3.0,Beograd,Zemun,6.0,6.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/1049633/
+172500.0,69.0,3.0,Beograd,Surčin,4.0,4.0,2024.0,False,True,True,https://www.nekretnine.rs/oglasi/1018679/
+116000.0,43.0,2.0,Beograd,Surčin,2.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97459/
+127600.0,44.0,2.0,Beograd,Surčin,3.0,3.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/999081/
+156750.0,57.0,2.0,Beograd,Surčin,3.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97131/
+385000.0,91.0,2.0,Beograd,Zvezdara,2.0,7.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/57/
+130000.0,48.0,2.0,Beograd,Palilula,3.0,4.0,1980.0,False,True,False,https://www.nekretnine.rs/oglasi/1033025/
+385000.0,88.0,3.0,Beograd,Novi Beograd,9.0,10.0,2022.0,True,False,False,https://www.nekretnine.rs/oglasi/1040231/
+150000.0,50.0,3.0,Beograd,Surčin,3.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/1030619/
+116000.0,43.0,2.0,Beograd,Surčin,1.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/1035659/
+147000.0,60.0,3.0,Beograd,Zvezdara,2.0,3.0,2023.0,True,True,False,https://www.nekretnine.rs/oglasi/1005033/
+395000.0,81.0,3.0,Beograd,Savski Venac,6.0,12.0,,True,True,True,https://www.nekretnine.rs/oglasi/1002721/
+169800.0,67.0,3.0,Beograd,Surčin,2.0,3.0,2021.0,False,False,True,https://www.nekretnine.rs/oglasi/1002383/
+127500.0,44.0,2.0,Beograd,Surčin,3.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/1046249/
+387000.0,106.0,4.0,Beograd,Vračar,1.0,1.0,1932.0,False,True,True,https://www.nekretnine.rs/oglasi/19827/
+116000.0,43.0,2.0,Beograd,Surčin,1.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/1007003/
+439900.0,113.0,4.0,Beograd,Novi Beograd,2.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1051977/
+156750.0,57.0,3.0,Beograd,Surčin,3.0,3.0,2024.0,False,True,True,https://www.nekretnine.rs/oglasi/97129/
+139000.0,122.0,5.0,Beograd,Mladenovac,3.0,4.0,2016.0,True,True,False,https://www.nekretnine.rs/oglasi/81501/
+385000.0,91.0,4.0,Beograd,Zvezdara,1.0,6.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/42265/
+69990.0,50.0,2.0,Beograd,Palilula,1.0,4.0,2011.0,False,True,True,https://www.nekretnine.rs/oglasi/36329/
+127350.0,40.0,2.0,Beograd,Surčin,3.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97127/
+275000.0,54.0,2.0,Beograd,Stari Grad,4.0,7.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/1051697/
+380000.0,99.0,4.0,Beograd,Savski Venac,1.0,7.0,1998.0,True,False,True,https://www.nekretnine.rs/oglasi/311/
+245000.0,56.0,2.0,Beograd,Vračar,1.0,6.0,1952.0,True,False,False,https://www.nekretnine.rs/oglasi/1055975/
+56000.0,35.0,2.0,Beograd,Palilula,3.0,3.0,2004.0,False,True,True,https://www.nekretnine.rs/oglasi/94729/
+625000.0,100.0,3.0,Beograd,Novi Beograd,3.0,6.0,,False,True,False,https://www.nekretnine.rs/oglasi/1055595/
+390000.0,124.0,4.0,Beograd,Voždovac,1.0,4.0,,True,True,True,https://www.nekretnine.rs/oglasi/1020039/
+385000.0,91.0,4.0,Beograd,Zvezdara,6.0,7.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/59/
+419000.0,105.0,4.0,Beograd,Zemun,6.0,8.0,,False,True,False,https://www.nekretnine.rs/oglasi/1059979/
+191000.0,46.0,2.0,Beograd,Novi Beograd,2.0,6.0,,False,False,False,https://www.nekretnine.rs/oglasi/1022735/
+800000.0,188.0,5.0,Beograd,Voždovac,3.0,4.0,2016.0,False,True,True,https://www.nekretnine.rs/oglasi/1016501/
+169800.0,67.0,3.0,Beograd,Surčin,2.0,3.0,2021.0,False,True,True,https://www.nekretnine.rs/oglasi/1010951/
+345000.0,82.0,4.0,Beograd,Rakovica,1.0,8.0,2024.0,True,True,True,https://www.nekretnine.rs/oglasi/1012751/
+235000.0,77.0,3.0,Beograd,Voždovac,1.0,6.0,1980.0,False,False,False,https://www.nekretnine.rs/oglasi/1041767/
+127600.0,44.0,2.0,Beograd,Surčin,3.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/1037739/
+230000.0,64.0,3.0,Beograd,Novi Beograd,3.0,4.0,2002.0,False,True,False,https://www.nekretnine.rs/oglasi/1020059/
+156750.0,57.0,3.0,Beograd,Surčin,3.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97507/
+156750.0,57.0,3.0,Beograd,Surčin,3.0,1.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97349/
+125200.0,44.0,2.0,Beograd,Surčin,1.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97149/
+103000.0,41.0,2.0,Beograd,Zvezdara,1.0,3.0,2026.0,True,True,False,https://www.nekretnine.rs/oglasi/999143/
+172500.0,69.0,3.0,Beograd,Surčin,4.0,4.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/1046205/
+136300.0,47.0,2.0,Beograd,Surčin,3.0,4.0,2024.0,False,True,True,https://www.nekretnine.rs/oglasi/1042273/
+132000.0,75.0,3.0,Beograd,Palilula,4.0,6.0,1985.0,True,True,True,https://www.nekretnine.rs/oglasi/1030845/
+160000.0,70.0,3.0,Beograd,Zvezdara,5.0,6.0,2013.0,True,True,True,https://www.nekretnine.rs/oglasi/36465/
+119900.0,44.0,2.0,Beograd,Surčin,2.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97251/
+150000.0,50.0,3.0,Beograd,Surčin,3.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/1012375/
+118300.0,42.0,2.0,Beograd,Surčin,4.0,4.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/1002381/
+116000.0,43.0,2.0,Beograd,Surčin,1.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97497/
+119900.0,44.0,2.0,Beograd,Surčin,2.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97361/
+550000.0,109.0,4.0,Beograd,Savski Venac,15.0,17.0,,True,True,True,https://www.nekretnine.rs/oglasi/1053743/
+121700.0,52.0,2.0,Beograd,Zvezdara,3.0,3.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/1046269/
+169000.0,69.0,2.0,Beograd,Surčin,4.0,4.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97145/
+380000.0,114.0,4.0,Beograd,Voždovac,4.0,4.0,,True,True,True,https://www.nekretnine.rs/oglasi/1094701/
+380000.0,104.0,5.0,Beograd,Stari Grad,2.0,4.0,1930.0,False,True,False,https://www.nekretnine.rs/oglasi/30695/
+82000.0,33.0,2.0,Beograd,Čukarica,2.0,3.0,2005.0,False,True,True,https://www.nekretnine.rs/oglasi/1001199/
+215000.0,71.0,3.0,Beograd,Zemun,1.0,5.0,,False,True,True,https://www.nekretnine.rs/oglasi/1008959/
+179900.0,73.0,4.0,Beograd,Rakovica,14.0,15.0,,False,True,False,https://www.nekretnine.rs/oglasi/1008507/
+195000.0,132.0,4.0,Beograd,Mladenovac,1.0,2.0,,False,True,False,https://www.nekretnine.rs/oglasi/1059015/
+215000.0,32.0,2.0,Beograd,Vračar,4.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1055531/
+189000.0,68.0,3.0,Beograd,Čukarica,6.0,7.0,,True,True,False,https://www.nekretnine.rs/oglasi/1028591/
+265000.0,109.0,6.0,Beograd,Zvezdara,1.0,2.0,,False,True,True,https://www.nekretnine.rs/oglasi/22279/
+888000.0,170.0,8.0,Beograd,Stari Grad,5.0,6.0,,False,True,False,https://www.nekretnine.rs/oglasi/1004303/
+135000.0,48.0,2.0,Beograd,Voždovac,2.0,3.0,,False,True,True,https://www.nekretnine.rs/oglasi/1034183/
+399000.0,128.0,3.0,Beograd,Voždovac,4.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1058847/
+245000.0,87.0,3.0,Beograd,Zemun,3.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1022867/
+159000.0,45.0,2.0,Beograd,Voždovac,3.0,5.0,,True,True,True,https://www.nekretnine.rs/oglasi/73107/
+322000.0,92.0,3.0,Beograd,Voždovac,3.0,3.0,,True,True,False,https://www.nekretnine.rs/oglasi/1055347/
+123500.0,37.0,1.0,Beograd,Zvezdara,1.0,2.0,,False,False,False,https://www.nekretnine.rs/oglasi/1044747/
+240000.0,68.0,3.0,Beograd,Zvezdara,4.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1026875/
+420000.0,115.0,3.0,Beograd,Zvezdara,5.0,5.0,2011.0,True,True,False,https://www.nekretnine.rs/oglasi/22013/
+350000.0,117.0,4.0,Beograd,Savski Venac,0.0,3.0,,False,True,True,https://www.nekretnine.rs/oglasi/1094957/
+289900.0,75.0,3.0,Beograd,Novi Beograd,4.0,5.0,,True,True,True,https://www.nekretnine.rs/oglasi/1040197/
+259000.0,98.0,4.0,Beograd,Čukarica,2.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1014769/
+120000.0,52.0,2.0,Beograd,Voždovac,2.0,2.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/120763/
+340300.0,82.0,3.0,Beograd,Savski Venac,2.0,24.0,,False,True,True,https://www.nekretnine.rs/oglasi/30647/
+170000.0,33.0,1.0,Beograd,Stari Grad,3.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/22779/
+160000.0,55.0,2.0,Beograd,Voždovac,2.0,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/23739/
+310000.0,84.0,3.0,Beograd,Vračar,2.0,15.0,,True,True,False,https://www.nekretnine.rs/oglasi/1004305/
+245000.0,109.0,4.0,Beograd,Rakovica,3.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1061021/
+250000.0,57.0,3.0,Beograd,Palilula,7.0,8.0,,True,True,False,https://www.nekretnine.rs/oglasi/1039619/
+375000.0,157.0,4.0,Beograd,Zvezdara,5.0,6.0,,False,True,False,https://www.nekretnine.rs/oglasi/1020613/
+410000.0,70.0,2.0,Beograd,Stari Grad,4.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1004307/
+129000.0,33.0,1.0,Beograd,Voždovac,8.0,8.0,,True,False,False,https://www.nekretnine.rs/oglasi/1002639/
+155000.0,62.0,3.0,Beograd,Surčin,2.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1036359/
+360000.0,76.0,4.0,Beograd,Vračar,2.0,5.0,,True,True,False,https://www.nekretnine.rs/oglasi/1031697/
+257000.0,78.0,4.0,Beograd,Voždovac,3.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1018191/
+310000.0,106.0,5.0,Beograd,Zemun,2.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/31927/
+199900.0,62.0,3.0,Beograd,Novi Beograd,4.0,13.0,,True,True,False,https://www.nekretnine.rs/oglasi/1051707/
+197000.0,84.0,3.0,Beograd,Voždovac,3.0,3.0,,True,False,False,https://www.nekretnine.rs/oglasi/63345/
+368000.0,81.0,2.0,Beograd,Čukarica,1.0,5.0,,True,True,True,https://www.nekretnine.rs/oglasi/1041889/
+95000.0,23.0,1.0,Beograd,Voždovac,2.0,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/1007257/
+420000.0,70.0,3.0,Beograd,Zvezdara,1.0,6.0,,False,True,False,https://www.nekretnine.rs/oglasi/1060611/
+585000.0,195.0,5.0,Beograd,Vračar,6.0,7.0,2004.0,True,True,False,https://www.nekretnine.rs/oglasi/75859/
+160000.0,39.0,2.0,Beograd,Zvezdara,1.0,1.0,,False,False,False,https://www.nekretnine.rs/oglasi/31991/
+250000.0,78.0,3.0,Beograd,Savski Venac,3.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/22103/
+220000.0,69.0,3.0,Beograd,Voždovac,2.0,6.0,,False,True,False,https://www.nekretnine.rs/oglasi/1040125/
+115000.0,53.0,3.0,Beograd,Čukarica,6.0,6.0,2000.0,False,False,True,https://www.nekretnine.rs/oglasi/1022883/
+193000.0,49.0,2.0,Beograd,Zvezdara,6.0,6.0,,True,False,False,https://www.nekretnine.rs/oglasi/1032971/
+180000.0,99.0,4.0,Beograd,Čukarica,1.0,2.0,,False,True,False,https://www.nekretnine.rs/oglasi/1030409/
+320000.0,61.0,3.0,Beograd,Stari Grad,1.0,2.0,,False,True,False,https://www.nekretnine.rs/oglasi/1052777/
+99000.0,33.0,1.0,Beograd,Surčin,1.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97635/
+225000.0,76.0,3.0,Beograd,Novi Beograd,1.0,7.0,,True,True,True,https://www.nekretnine.rs/oglasi/1007235/
+131600.0,47.0,2.0,Beograd,Surčin,4.0,4.0,2024.0,False,True,True,https://www.nekretnine.rs/oglasi/1025085/
+127500.0,40.0,1.0,Beograd,Surčin,3.0,1.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97239/
+250000.0,123.0,6.0,Beograd,Čukarica,4.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1031577/
+120000.0,49.0,2.0,Beograd,Zvezdara,3.0,3.0,,False,True,True,https://www.nekretnine.rs/oglasi/1028135/
+158000.0,58.0,2.0,Beograd,Voždovac,5.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1016273/
+202900.0,63.0,3.0,Beograd,Voždovac,1.0,2.0,,False,True,False,https://www.nekretnine.rs/oglasi/1009401/
+390000.0,66.0,2.0,Beograd,Stari Grad,3.0,7.0,,True,True,True,https://www.nekretnine.rs/oglasi/1067359/
+280000.0,55.0,2.0,Beograd,Savski Venac,2.0,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/1059049/
+209000.0,80.0,3.0,Beograd,Zvezdara,5.0,8.0,,True,True,False,https://www.nekretnine.rs/oglasi/1036147/
+177000.0,47.0,2.0,Beograd,Novi Beograd,3.0,5.0,,True,True,False,https://www.nekretnine.rs/oglasi/1008469/
+275000.0,101.0,4.0,Beograd,Čukarica,6.0,7.0,,True,True,True,https://www.nekretnine.rs/oglasi/1006493/
+130000.0,51.0,2.0,Beograd,Palilula,2.0,3.0,,False,False,False,https://www.nekretnine.rs/oglasi/1059765/
+128000.0,56.0,2.0,Beograd,Zemun,1.0,2.0,,False,True,False,https://www.nekretnine.rs/oglasi/1041093/
+225000.0,75.0,3.0,Beograd,Novi Beograd,3.0,9.0,,True,True,False,https://www.nekretnine.rs/oglasi/1090955/
+339000.0,92.0,4.0,Beograd,Stari Grad,3.0,5.0,,True,True,False,https://www.nekretnine.rs/oglasi/1047483/
+335000.0,105.0,4.0,Beograd,Rakovica,9.0,9.0,,True,True,True,https://www.nekretnine.rs/oglasi/1047177/
+225000.0,92.0,3.0,Beograd,Novi Beograd,13.0,14.0,,False,True,False,https://www.nekretnine.rs/oglasi/31833/
+171000.0,58.0,2.0,Beograd,Novi Beograd,10.0,10.0,,False,True,True,https://www.nekretnine.rs/oglasi/30691/
+121000.0,49.0,2.0,Beograd,Palilula,1.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1043355/
+151500.0,80.0,4.0,Beograd,Palilula,5.0,6.0,,False,True,False,https://www.nekretnine.rs/oglasi/1054779/
+352800.0,98.0,4.0,Beograd,Zemun,6.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1018231/
+255000.0,69.0,3.0,Beograd,Vračar,1.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1017043/
+128260.0,53.0,3.0,Beograd,Surčin,1.0,2.0,,False,True,True,https://www.nekretnine.rs/oglasi/1015203/
+221250.0,75.0,3.0,Beograd,Novi Beograd,18.0,19.0,,True,True,False,https://www.nekretnine.rs/oglasi/1052075/
+379000.0,82.0,3.0,Beograd,Novi Beograd,4.0,8.0,,True,True,False,https://www.nekretnine.rs/oglasi/1048105/
+154000.0,51.0,2.0,Beograd,Rakovica,8.0,11.0,,True,True,False,https://www.nekretnine.rs/oglasi/1030461/
+136300.0,47.0,3.0,Beograd,Zvezdara,2.0,4.0,,True,True,False,https://www.nekretnine.rs/oglasi/618783/
+300000.0,94.0,4.0,Beograd,Savski Venac,1.0,4.0,,False,True,True,https://www.nekretnine.rs/oglasi/155763/
+448000.0,160.0,4.0,Beograd,Rakovica,7.0,7.0,,True,True,True,https://www.nekretnine.rs/oglasi/98217/
+132000.0,49.0,2.0,Beograd,Palilula,5.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1010813/
+345000.0,137.0,6.0,Beograd,Vračar,3.0,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/23523/
+255000.0,114.0,3.0,Beograd,Voždovac,4.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1029545/
+315000.0,96.0,4.0,Beograd,Zvezdara,6.0,6.0,,True,True,True,https://www.nekretnine.rs/oglasi/1017541/
+395000.0,85.0,3.0,Beograd,Savski Venac,5.0,8.0,2025.0,True,True,True,https://www.nekretnine.rs/oglasi/1008467/
+165000.0,66.0,3.0,Beograd,Surčin,2.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1024947/
+179000.0,71.0,3.0,Beograd,Zemun,1.0,2.0,,False,True,False,https://www.nekretnine.rs/oglasi/1008977/
+318000.0,105.0,4.0,Beograd,Rakovica,2.0,2.0,2010.0,False,True,True,https://www.nekretnine.rs/oglasi/30785/
+498000.0,110.0,4.0,Beograd,Savski Venac,5.0,9.0,,True,True,True,https://www.nekretnine.rs/oglasi/1043427/
+260000.0,102.0,3.0,Beograd,Savski Venac,3.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/26699/
+330000.0,94.0,5.0,Beograd,Zvezdara,3.0,4.0,,True,True,True,https://www.nekretnine.rs/oglasi/1004443/
+238900.0,70.0,3.0,Beograd,Zvezdara,3.0,4.0,,False,True,True,https://www.nekretnine.rs/oglasi/30967/
+310000.0,72.0,3.0,Beograd,Vračar,2.0,4.0,,True,True,True,https://www.nekretnine.rs/oglasi/1008605/
+198000.0,53.0,2.0,Beograd,Novi Beograd,1.0,8.0,,True,True,False,https://www.nekretnine.rs/oglasi/1048869/
+399000.0,83.0,3.0,Beograd,Vračar,5.0,5.0,,True,True,True,https://www.nekretnine.rs/oglasi/1026671/
+395000.0,81.0,2.0,Beograd,Savski Venac,6.0,8.0,,True,True,True,https://www.nekretnine.rs/oglasi/1013235/
+205000.0,41.0,2.0,Beograd,Čukarica,1.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/31983/
+154500.0,76.0,4.0,Beograd,Čukarica,8.0,8.0,,True,False,False,https://www.nekretnine.rs/oglasi/31877/
+342325.0,152.0,4.0,Beograd,Zvezdara,5.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1000467/
+185000.0,64.0,2.0,Beograd,Rakovica,1.0,10.0,,False,True,False,https://www.nekretnine.rs/oglasi/1060005/
+252000.0,85.0,4.0,Beograd,Novi Beograd,1.0,7.0,,False,True,False,https://www.nekretnine.rs/oglasi/1020629/
+230000.0,66.0,3.0,Beograd,Novi Beograd,6.0,10.0,,True,True,True,https://www.nekretnine.rs/oglasi/1015559/
+266900.0,88.0,3.0,Beograd,Novi Beograd,1.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1016841/
+650000.0,149.0,4.0,Beograd,Stari Grad,1.0,5.0,,True,False,False,https://www.nekretnine.rs/oglasi/31837/
+245000.0,95.0,4.0,Beograd,Voždovac,5.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1008427/
+395000.0,81.0,3.0,Beograd,Čukarica,6.0,8.0,,True,True,True,https://www.nekretnine.rs/oglasi/1002099/
+140000.0,31.0,2.0,Beograd,Voždovac,4.0,7.0,,True,True,False,https://www.nekretnine.rs/oglasi/1042355/
+160000.0,52.0,2.0,Beograd,Čukarica,3.0,9.0,,False,True,False,https://www.nekretnine.rs/oglasi/1022787/
+285000.0,74.0,2.5,Beograd,Savski Venac,7.0,8.0,1967.0,True,True,False,https://www.nekretnine.rs/oglasi/1010767/
+340000.0,88.0,4.0,Beograd,Savski Venac,4.0,5.0,2010.0,True,False,True,https://www.nekretnine.rs/oglasi/31657/
+155000.0,64.0,2.0,Beograd,Rakovica,3.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1011917/
+300000.0,64.0,3.0,Beograd,Stari Grad,8.0,10.0,,True,True,True,https://www.nekretnine.rs/oglasi/22161/
+429000.0,103.0,3.0,Beograd,Vračar,5.0,7.0,,True,False,False,https://www.nekretnine.rs/oglasi/87435/
+280000.0,82.0,3.0,Beograd,Palilula,2.0,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/1028633/
+580000.0,270.0,5.0,Beograd,Rakovica,2.0,2.0,,False,True,True,https://www.nekretnine.rs/oglasi/97779/
+40000.0,51.0,2.0,Beograd,Palilula,1.0,2.0,,False,False,False,https://www.nekretnine.rs/oglasi/1059575/
+89000.0,42.0,2.0,Beograd,Novi Beograd,3.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1046187/
+399000.0,73.0,3.0,Beograd,Stari Grad,4.0,4.0,,True,False,False,https://www.nekretnine.rs/oglasi/1016759/
+72000.0,44.0,1.0,Beograd,Novi Beograd,0.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1059683/
+380000.0,99.0,4.0,Beograd,Savski Venac,1.0,7.0,,True,True,True,https://www.nekretnine.rs/oglasi/1055979/
+205000.0,54.0,2.0,Beograd,Zemun,4.0,12.0,,True,True,False,https://www.nekretnine.rs/oglasi/1048927/
+125400.0,44.0,1.0,Beograd,Surčin,1.0,3.0,,False,True,True,https://www.nekretnine.rs/oglasi/97597/
+280000.0,84.0,3.0,Beograd,Palilula,3.0,13.0,,False,True,False,https://www.nekretnine.rs/oglasi/1059241/
+199000.0,78.0,3.0,Beograd,Palilula,1.0,2.0,,False,True,False,https://www.nekretnine.rs/oglasi/22923/
+165000.0,49.0,3.0,Beograd,Palilula,5.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/31779/
+450000.0,167.0,4.0,Beograd,Stari Grad,8.0,8.0,,False,True,False,https://www.nekretnine.rs/oglasi/1022307/
+275000.0,57.0,2.0,Beograd,Stari Grad,3.0,5.0,,True,False,False,https://www.nekretnine.rs/oglasi/1030909/
+245000.0,95.0,4.0,Beograd,Voždovac,5.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1030069/
+205000.0,68.0,3.0,Beograd,Vračar,3.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1051645/
+225000.0,66.0,3.0,Beograd,Stari Grad,2.0,2.0,,False,True,False,https://www.nekretnine.rs/oglasi/1039863/
+155000.0,60.0,3.0,Beograd,Čukarica,4.0,4.0,,False,False,True,https://www.nekretnine.rs/oglasi/30929/
+210000.0,102.0,4.0,Beograd,Čukarica,3.0,4.0,,True,True,False,https://www.nekretnine.rs/oglasi/72145/
+120000.0,38.0,2.0,Beograd,Palilula,2.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1041745/
+295000.0,80.0,3.0,Beograd,Palilula,3.0,6.0,2010.0,True,True,False,https://www.nekretnine.rs/oglasi/1016161/
+224000.0,55.0,2.0,Beograd,Novi Beograd,2.0,11.0,,True,True,True,https://www.nekretnine.rs/oglasi/1018549/
+150000.0,49.0,2.0,Beograd,Zvezdara,11.0,11.0,,False,True,False,https://www.nekretnine.rs/oglasi/1059085/
+480000.0,79.0,3.0,Beograd,Savski Venac,3.0,5.0,2019.0,False,True,True,https://www.nekretnine.rs/oglasi/1032629/
+113900.0,62.0,2.0,Beograd,Zvezdara,,1.0,1992.0,False,True,True,https://www.nekretnine.rs/oglasi/1049561/
+250000.0,93.0,4.0,Beograd,Palilula,3.0,5.0,1999.0,False,False,False,https://www.nekretnine.rs/oglasi/1044303/
+187000.0,85.0,3.0,Beograd,Zemun,4.0,4.0,2024.0,True,False,True,https://www.nekretnine.rs/oglasi/22997/
+156750.0,57.0,3.0,Beograd,Surčin,3.0,4.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97587/
+295000.0,82.0,4.0,Beograd,Novi Beograd,7.0,8.0,,False,True,False,https://www.nekretnine.rs/oglasi/1055579/
+210000.0,211.0,9.0,Beograd,Zvezdara,,1.0,1985.0,False,True,False,https://www.nekretnine.rs/oglasi/27959/
+572000.0,143.0,5.0,Beograd,Palilula,1.0,7.0,1975.0,True,False,False,https://www.nekretnine.rs/oglasi/1010625/
+239900.0,67.0,2.0,Beograd,Novi Beograd,3.0,8.0,1970.0,True,True,True,https://www.nekretnine.rs/oglasi/1028621/
+266000.0,89.0,4.0,Beograd,Čukarica,9.0,9.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/1014967/
+252500.0,83.0,4.0,Beograd,Čukarica,6.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1040679/
+950000.0,175.0,4.0,Beograd,Savski Venac,1.0,4.0,,True,True,False,https://www.nekretnine.rs/oglasi/48393/
+368000.0,87.0,3.0,Beograd,Savski Venac,1.0,5.0,,True,True,True,https://www.nekretnine.rs/oglasi/1052759/
+269000.0,77.0,4.0,Beograd,Novi Beograd,7.0,14.0,1977.0,False,True,False,https://www.nekretnine.rs/oglasi/1044321/
+194000.0,73.0,3.0,Beograd,Zemun,19.0,22.0,,False,False,True,https://www.nekretnine.rs/oglasi/1020667/
+140760.0,53.0,2.0,Beograd,Čukarica,1.0,4.0,2010.0,False,False,True,https://www.nekretnine.rs/oglasi/94589/
+243320.0,79.0,4.0,Beograd,Zemun,,3.0,2025.0,False,False,False,https://www.nekretnine.rs/oglasi/30711/
+220000.0,38.0,3.0,Beograd,Stari Grad,1.0,3.0,,False,True,True,https://www.nekretnine.rs/oglasi/1004615/
+150000.0,55.0,2.0,Beograd,Zemun,1.0,2.0,1980.0,False,True,False,https://www.nekretnine.rs/oglasi/1032567/
+380000.0,86.0,3.0,Beograd,Stari Grad,4.0,5.0,2000.0,True,True,False,https://www.nekretnine.rs/oglasi/1051743/
+250000.0,57.0,2.0,Beograd,Palilula,7.0,8.0,,True,True,False,https://www.nekretnine.rs/oglasi/1034297/
+266000.0,82.0,3.0,Beograd,Stari Grad,1.0,1.0,1927.0,False,False,False,https://www.nekretnine.rs/oglasi/1015173/
+110000.0,50.0,3.0,Beograd,Voždovac,,3.0,2026.0,False,True,False,https://www.nekretnine.rs/oglasi/1043893/
+780000.0,122.0,4.0,Beograd,Stari Grad,1.0,8.0,,True,True,True,https://www.nekretnine.rs/oglasi/22101/
+165000.0,44.0,2.0,Beograd,Palilula,1.0,5.0,2022.0,False,False,False,https://www.nekretnine.rs/oglasi/1001149/
+244000.0,227.0,5.0,Beograd,Palilula,,1.0,2007.0,False,True,False,https://www.nekretnine.rs/oglasi/1004441/
+205000.0,63.0,2.0,Beograd,Zvezdara,4.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1040003/
+145000.0,90.0,4.0,Beograd,Grocka,,1.0,2026.0,False,False,True,https://www.nekretnine.rs/oglasi/1039613/
+125400.0,44.0,2.0,Beograd,Surčin,3.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97359/
+249000.0,53.0,2.0,Beograd,Vračar,1.0,5.0,,True,False,False,https://www.nekretnine.rs/oglasi/32035/
+390000.0,103.0,4.0,Beograd,Novi Beograd,6.0,8.0,,False,True,False,https://www.nekretnine.rs/oglasi/1060369/
+240000.0,86.0,4.0,Beograd,Zvezdara,3.0,8.0,,True,True,False,https://www.nekretnine.rs/oglasi/1040683/
+585000.0,86.0,4.0,Beograd,Stari Grad,2.0,3.0,,False,False,True,https://www.nekretnine.rs/oglasi/31257/
+189000.0,65.0,3.0,Beograd,Rakovica,3.0,10.0,,False,True,True,https://www.nekretnine.rs/oglasi/1055623/
+399000.0,143.0,5.0,Beograd,Novi Beograd,5.0,6.0,2007.0,True,True,True,https://www.nekretnine.rs/oglasi/1008445/
+89540.0,37.0,2.0,Beograd,Surčin,1.0,2.0,,False,True,True,https://www.nekretnine.rs/oglasi/1038685/
+610500.0,142.0,5.0,Beograd,Voždovac,3.0,3.0,2025.0,False,True,False,https://www.nekretnine.rs/oglasi/31015/
+230000.0,37.0,2.0,Beograd,Stari Grad,6.0,7.0,1996.0,True,False,False,https://www.nekretnine.rs/oglasi/1044663/
+400000.0,104.0,4.0,Beograd,Voždovac,8.0,8.0,,True,True,False,https://www.nekretnine.rs/oglasi/1028063/
+159000.0,58.0,3.0,Beograd,Palilula,5.0,5.0,2012.0,False,False,False,https://www.nekretnine.rs/oglasi/1028053/
+85000.0,71.0,2.0,Beograd,Barajevo,4.0,6.0,,False,True,False,https://www.nekretnine.rs/oglasi/1022617/
+250000.0,77.0,3.0,Beograd,Palilula,1.0,3.0,2000.0,False,True,False,https://www.nekretnine.rs/oglasi/31929/
+290000.0,80.0,5.0,Beograd,Voždovac,3.0,3.0,,False,True,True,https://www.nekretnine.rs/oglasi/1032589/
+125000.0,37.0,3.0,Beograd,Zemun,,1.0,,False,False,False,https://www.nekretnine.rs/oglasi/22009/
+425888.0,70.0,2.0,Beograd,Savski Venac,4.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1052417/
+195000.0,58.0,3.0,Beograd,Palilula,,7.0,,True,True,False,https://www.nekretnine.rs/oglasi/1051979/
+900000.0,180.0,4.0,Beograd,Savski Venac,,1.0,,False,True,True,https://www.nekretnine.rs/oglasi/829755/
+250000.0,47.0,3.0,Beograd,Stari Grad,,3.0,,False,False,True,https://www.nekretnine.rs/oglasi/827007/
+330000.0,54.0,3.0,Beograd,Voždovac,,3.0,,True,True,False,https://www.nekretnine.rs/oglasi/1040127/
+272000.0,68.0,4.0,Beograd,Novi Beograd,,4.0,,True,False,False,https://www.nekretnine.rs/oglasi/1055035/
+177000.0,64.0,3.0,Beograd,Rakovica,,11.0,,True,True,False,https://www.nekretnine.rs/oglasi/1016719/
+235000.0,45.0,2.0,Beograd,Vračar,3.0,5.0,,False,False,False,https://www.nekretnine.rs/oglasi/31869/
+99000.0,33.0,1.0,Beograd,Surčin,1.0,3.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/1034463/
+169999.0,63.0,3.0,Beograd,Zvezdara,,2.0,,False,True,True,https://www.nekretnine.rs/oglasi/1005385/
+209900.0,72.0,3.0,Beograd,Voždovac,1.0,4.0,,True,True,True,https://www.nekretnine.rs/oglasi/1053497/
+162696.0,52.0,3.0,Beograd,Zvezdara,,8.0,,True,True,True,https://www.nekretnine.rs/oglasi/1040133/
+229900.0,56.0,3.0,Beograd,Palilula,3.0,5.0,,True,True,False,https://www.nekretnine.rs/oglasi/1028271/
+215000.0,77.0,3.0,Beograd,Voždovac,4.0,4.0,,False,True,True,https://www.nekretnine.rs/oglasi/1023053/
+900000.0,231.0,7.0,Beograd,Savski Venac,,2.0,,False,True,True,https://www.nekretnine.rs/oglasi/1018745/
+275000.0,57.0,3.0,Beograd,Stari Grad,6.0,6.0,,False,False,False,https://www.nekretnine.rs/oglasi/1020639/
+381000.0,103.0,3.0,Beograd,Novi Beograd,2.0,8.0,,True,True,False,https://www.nekretnine.rs/oglasi/1016533/
+99000.0,33.0,1.0,Beograd,Surčin,1.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97581/
+350000.0,103.0,4.0,Beograd,Savski Venac,2.0,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/1059645/
+90000.0,46.0,1.0,Beograd,Novi Beograd,4.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1057595/
+149000.0,40.0,2.0,Beograd,Savski Venac,,1.0,,False,True,False,https://www.nekretnine.rs/oglasi/1003669/
+330000.0,100.0,3.0,Beograd,Stari Grad,1.0,4.0,1936.0,True,True,True,https://www.nekretnine.rs/oglasi/1027403/
+168500.0,51.0,2.0,Beograd,Novi Beograd,5.0,6.0,,False,True,False,https://www.nekretnine.rs/oglasi/1020615/
+380000.0,90.0,3.0,Beograd,Palilula,4.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1032583/
+117000.0,51.0,2.0,Beograd,Zemun,,2.0,,False,True,True,https://www.nekretnine.rs/oglasi/1051259/
+610000.0,124.0,4.0,Beograd,Savski Venac,12.0,,,True,True,False,https://www.nekretnine.rs/oglasi/1000033/
+130000.0,47.0,3.0,Beograd,Zvezdara,,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1028069/
+219000.0,51.0,2.0,Beograd,Savski Venac,5.0,7.0,,False,True,False,https://www.nekretnine.rs/oglasi/1021051/
+185000.0,60.0,2.0,Beograd,Zvezdara,,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1060801/
+271000.0,139.0,5.0,Beograd,Zemun,,1.0,,False,True,True,https://www.nekretnine.rs/oglasi/1014507/
+149000.0,50.0,2.0,Beograd,Zemun,2.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1032587/
+244200.0,79.0,3.0,Beograd,Zemun,4.0,4.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/1008991/
+258000.0,57.0,3.0,Beograd,Stari Grad,,2.0,,False,False,True,https://www.nekretnine.rs/oglasi/1016287/
+457888.0,74.0,2.0,Beograd,Savski Venac,6.0,6.0,,True,True,True,https://www.nekretnine.rs/oglasi/1005641/
+275000.0,91.0,4.0,Beograd,Zvezdara,6.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1020103/
+213000.0,61.0,3.0,Beograd,Novi Beograd,1.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1016379/
+950000.0,220.0,6.0,Beograd,Savski Venac,,1.0,,False,True,True,https://www.nekretnine.rs/oglasi/75873/
+670000.0,139.0,5.0,Beograd,Voždovac,,1.0,,False,True,False,https://www.nekretnine.rs/oglasi/1021975/
+380000.0,98.0,4.0,Beograd,Savski Venac,,3.0,,False,False,False,https://www.nekretnine.rs/oglasi/1016269/
+138000.0,52.0,3.0,Beograd,Zemun,2.0,2.0,,False,True,False,https://www.nekretnine.rs/oglasi/30653/
+349000.0,92.0,4.0,Beograd,Novi Beograd,3.0,,,False,True,False,https://www.nekretnine.rs/oglasi/1053951/
+160000.0,57.0,2.0,Beograd,Rakovica,2.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1040015/
+306660.0,114.0,5.0,Beograd,Palilula,5.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1032633/
+257000.0,104.0,3.0,Beograd,Zvezdara,,4.0,,True,True,True,https://www.nekretnine.rs/oglasi/48403/
+349000.0,98.0,4.0,Beograd,Savski Venac,2.0,1.0,1908.0,False,True,True,https://www.nekretnine.rs/oglasi/1010917/
+235000.0,58.0,2.0,Beograd,Vračar,,4.0,,False,True,True,https://www.nekretnine.rs/oglasi/1028141/
+310000.0,84.0,3.0,Beograd,Vračar,2.0,15.0,,True,True,False,https://www.nekretnine.rs/oglasi/1002165/
+132500.0,53.0,2.0,Beograd,Rakovica,1.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1046259/
+229900.0,60.0,3.0,Beograd,Palilula,4.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1008999/
+430888.0,70.0,2.0,Beograd,Savski Venac,5.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1052419/
+375000.0,157.0,4.0,Beograd,Zvezdara,5.0,6.0,,True,True,True,https://www.nekretnine.rs/oglasi/22455/
+179900.0,73.0,4.0,Beograd,Rakovica,14.0,15.0,,True,True,False,https://www.nekretnine.rs/oglasi/1008083/
+238000.0,65.0,3.0,Beograd,Novi Beograd,2.0,,,True,True,True,https://www.nekretnine.rs/oglasi/1028133/
+300000.0,81.0,4.0,Beograd,Zvezdara,4.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/72143/
+430000.0,100.0,4.0,Beograd,Vračar,3.0,,,True,True,False,https://www.nekretnine.rs/oglasi/20551/
+343000.0,97.0,4.0,Beograd,Stari Grad,1.0,4.0,,True,True,False,https://www.nekretnine.rs/oglasi/1020017/
+230000.0,83.0,3.0,Beograd,Zvezdara,1.0,5.0,,True,True,True,https://www.nekretnine.rs/oglasi/1023955/
+93000.0,33.0,1.0,Beograd,Čukarica,5.0,6.0,2004.0,False,False,False,https://www.nekretnine.rs/oglasi/1044277/
+1176600.0,222.0,4.0,Beograd,Vračar,6.0,8.0,2025.0,True,True,False,https://www.nekretnine.rs/oglasi/1051167/
+1383300.0,261.0,4.0,Beograd,Vračar,6.0,8.0,2025.0,True,True,False,https://www.nekretnine.rs/oglasi/1004319/
+350000.0,83.0,3.0,Beograd,Savski Venac,21.0,26.0,2027.0,True,True,True,https://www.nekretnine.rs/oglasi/206185/
+199727.0,60.0,3.0,Beograd,Voždovac,4.0,4.0,2026.0,True,True,False,https://www.nekretnine.rs/oglasi/1038629/
+165000.0,55.0,3.0,Beograd,Zvezdara,3.0,3.0,,False,False,False,https://www.nekretnine.rs/oglasi/1032601/
+420000.0,87.0,3.0,Beograd,Savski Venac,8.0,23.0,,True,True,True,https://www.nekretnine.rs/oglasi/1052389/
+180000.0,21.0,1.0,Beograd,Vračar,7.0,7.0,,True,False,False,https://www.nekretnine.rs/oglasi/1005257/
+158000.0,45.0,2.0,Beograd,Palilula,2.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1030903/
+580000.0,171.0,5.0,Beograd,Savski Venac,1.0,6.0,,False,True,False,https://www.nekretnine.rs/oglasi/1005821/
+152000.0,38.0,1.0,Beograd,Voždovac,3.0,4.0,,True,True,False,https://www.nekretnine.rs/oglasi/1055227/
+110000.0,50.0,2.0,Beograd,Zvezdara,2.0,4.0,,False,True,True,https://www.nekretnine.rs/oglasi/1046173/
+167000.0,44.0,2.0,Beograd,Novi Beograd,6.0,6.0,,False,False,False,https://www.nekretnine.rs/oglasi/1019277/
+139900.0,49.0,2.0,Beograd,Voždovac,7.0,11.0,,True,True,False,https://www.nekretnine.rs/oglasi/1010513/
+156000.0,30.0,1.0,Beograd,Zemun,5.0,7.0,,True,False,True,https://www.nekretnine.rs/oglasi/1055203/
+144000.0,80.0,3.0,Beograd,Grocka,3.0,4.0,,False,True,True,https://www.nekretnine.rs/oglasi/726053/
+235000.0,61.0,3.0,Beograd,Novi Beograd,8.0,9.0,,True,False,False,https://www.nekretnine.rs/oglasi/1022437/
+240000.0,74.0,4.0,Beograd,Savski Venac,6.0,6.0,,False,True,False,https://www.nekretnine.rs/oglasi/1044329/
+320000.0,64.0,2.0,Beograd,Stari Grad,1.0,8.0,,True,True,False,https://www.nekretnine.rs/oglasi/1015113/
+165000.0,43.0,1.0,Beograd,Zemun,2.0,5.0,,True,True,True,https://www.nekretnine.rs/oglasi/1021109/
+377000.0,91.0,4.0,Beograd,Stari Grad,,2.0,1930.0,False,False,False,https://www.nekretnine.rs/oglasi/55641/
+700000.0,168.0,4.0,Beograd,Vračar,4.0,5.0,2001.0,True,True,True,https://www.nekretnine.rs/oglasi/73971/
+185000.0,59.0,2.0,Beograd,Novi Beograd,4.0,4.0,,True,True,False,https://www.nekretnine.rs/oglasi/1042289/
+180000.0,72.0,3.0,Beograd,Zvezdara,3.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/55859/
+240000.0,47.0,3.0,Beograd,Stari Grad,1.0,,,False,True,False,https://www.nekretnine.rs/oglasi/1065303/
+83000.0,28.0,1.0,Beograd,Rakovica,,5.0,1995.0,False,True,False,https://www.nekretnine.rs/oglasi/1043247/
+45500.0,20.0,1.0,Beograd,Zvezdara,,1.0,,False,False,False,https://www.nekretnine.rs/oglasi/1058769/
+460000.0,71.0,3.0,Beograd,Stari Grad,4.0,,,True,True,False,https://www.nekretnine.rs/oglasi/1028659/
+289900.0,59.0,2.0,Beograd,Stari Grad,1.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/98001/
+209000.0,67.0,3.0,Beograd,Stari Grad,2.0,2.0,,False,False,False,https://www.nekretnine.rs/oglasi/1060991/
+109000.0,44.0,2.0,Beograd,Surčin,,3.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/1025089/
+181573.0,62.0,3.0,Beograd,Rakovica,5.0,7.0,2027.0,True,True,True,https://www.nekretnine.rs/oglasi/1026753/
+95000.0,51.0,3.0,Beograd,Zemun,3.0,4.0,2018.0,False,True,True,https://www.nekretnine.rs/oglasi/1042283/
+109000.0,44.0,1.0,Beograd,Surčin,,3.0,2025.0,False,False,False,https://www.nekretnine.rs/oglasi/97607/
+219000.0,67.0,3.0,Beograd,Palilula,,5.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/1055015/
+149000.0,64.0,2.0,Beograd,Rakovica,3.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1049567/
+83000.0,34.0,1.0,Beograd,Voždovac,,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/1024099/
+180000.0,149.0,5.0,Beograd,Obrenovac,1.0,1.0,,False,True,False,https://www.nekretnine.rs/oglasi/1017599/
+136119.0,53.0,2.0,Beograd,Voždovac,3.0,4.0,2026.0,True,True,True,https://www.nekretnine.rs/oglasi/1012145/
+145000.0,50.0,3.0,Beograd,Surčin,3.0,,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97125/
+99000.0,33.0,1.0,Beograd,Surčin,1.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/1025097/
+119990.0,35.0,2.0,Beograd,Zvezdara,,2.0,1938.0,False,False,False,https://www.nekretnine.rs/oglasi/36477/
+395000.0,81.0,3.0,Beograd,Savski Venac,6.0,,,False,True,False,https://www.nekretnine.rs/oglasi/1060359/
+410000.0,83.0,3.0,Beograd,Novi Beograd,4.0,7.0,,True,False,False,https://www.nekretnine.rs/oglasi/1017207/
+287000.0,41.0,2.0,Beograd,Stari Grad,,1.0,,False,False,False,https://www.nekretnine.rs/oglasi/1051541/
+84000.0,30.0,2.0,Beograd,Surčin,,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97229/
+109000.0,44.0,2.0,Beograd,Surčin,,3.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/999079/
+165600.0,73.0,3.0,Beograd,Zvezdara,5.0,5.0,,True,False,False,https://www.nekretnine.rs/oglasi/1047143/
+127350.0,40.0,2.0,Beograd,Surčin,3.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97377/
+105000.0,46.0,2.0,Beograd,Zvezdara,1.0,1.0,,False,False,True,https://www.nekretnine.rs/oglasi/998817/
+99000.0,33.0,1.0,Beograd,Surčin,1.0,1.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/1053693/
+225000.0,61.0,3.0,Beograd,Novi Beograd,18.0,19.0,,False,True,False,https://www.nekretnine.rs/oglasi/1060307/
+270000.0,67.0,3.0,Beograd,Zvezdara,,4.0,2022.0,False,False,True,https://www.nekretnine.rs/oglasi/1013151/
+145000.0,50.0,3.0,Beograd,Surčin,3.0,,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97221/
+160000.0,55.0,2.0,Beograd,Palilula,1.0,4.0,,False,True,True,https://www.nekretnine.rs/oglasi/1050585/
+184900.0,85.0,3.0,Beograd,Zvezdara,2.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1026777/
+109500.0,39.0,2.0,Beograd,Surčin,1.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/1024149/
+165000.0,42.0,1.0,Beograd,Savski Venac,,2.0,,False,False,False,https://www.nekretnine.rs/oglasi/1060489/
+190000.0,42.0,3.0,Beograd,Palilula,5.0,5.0,,False,False,False,https://www.nekretnine.rs/oglasi/1054739/
+130000.0,38.0,2.0,Beograd,Vračar,,,,False,False,False,https://www.nekretnine.rs/oglasi/1007857/
+115000.0,44.0,2.0,Beograd,Surčin,,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/1000429/
+400000.0,133.0,3.0,Beograd,Voždovac,,3.0,2025.0,True,True,True,https://www.nekretnine.rs/oglasi/49557/
+379000.0,100.0,3.0,Beograd,Savski Venac,2.0,3.0,1942.0,False,True,False,https://www.nekretnine.rs/oglasi/1028661/
+674000.0,107.0,4.0,Beograd,Savski Venac,9.0,23.0,2020.0,True,True,True,https://www.nekretnine.rs/oglasi/1029099/
+84000.0,30.0,1.0,Beograd,Surčin,,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97637/
+156750.0,57.0,3.0,Beograd,Surčin,3.0,,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97237/
+144900.0,135.0,4.0,Beograd,Čukarica,,1.0,1978.0,False,True,True,https://www.nekretnine.rs/oglasi/36237/
+193000.0,49.0,2.0,Beograd,Zvezdara,6.0,6.0,,True,False,True,https://www.nekretnine.rs/oglasi/1022893/
+126000.0,50.0,2.0,Beograd,Palilula,3.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1034467/
+205645.0,70.0,3.0,Beograd,Rakovica,7.0,7.0,2027.0,True,True,True,https://www.nekretnine.rs/oglasi/1049907/
+420000.0,83.0,3.0,Beograd,Savski Venac,9.0,23.0,2019.0,False,True,True,https://www.nekretnine.rs/oglasi/1020617/
+189000.0,70.0,3.0,Beograd,Voždovac,1.0,6.0,1996.0,True,True,True,https://www.nekretnine.rs/oglasi/1040473/
+129000.0,40.0,2.0,Beograd,Zemun,,1.0,1990.0,False,True,True,https://www.nekretnine.rs/oglasi/998979/
+212350.0,50.0,2.0,Beograd,Zvezdara,6.0,7.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/42431/
+200000.0,110.0,3.0,Beograd,Zemun,1.0,2.0,,False,True,False,https://www.nekretnine.rs/oglasi/1059463/
+136300.0,47.0,1.0,Beograd,Surčin,3.0,4.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97257/
+140000.0,48.0,2.0,Beograd,Voždovac,,4.0,1968.0,False,True,False,https://www.nekretnine.rs/oglasi/1032477/
+480000.0,110.0,3.0,Beograd,Stari Grad,3.0,5.0,1927.0,True,False,False,https://www.nekretnine.rs/oglasi/1039663/
+299000.0,60.0,2.0,Beograd,Stari Grad,2.0,5.0,1950.0,True,False,True,https://www.nekretnine.rs/oglasi/64971/
+274000.0,86.0,3.0,Beograd,Stari Grad,5.0,6.0,1995.0,True,True,False,https://www.nekretnine.rs/oglasi/1007879/
+158000.0,64.0,3.0,Beograd,Palilula,0.0,1.0,1950.0,False,False,False,https://www.nekretnine.rs/oglasi/61657/
+420000.0,252.0,7.0,Beograd,Zvezdara,,2.0,1985.0,False,True,True,https://www.nekretnine.rs/oglasi/44313/
+273000.0,137.0,7.0,Beograd,Palilula,,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1039609/
+359000.0,88.0,3.0,Beograd,Stari Grad,5.0,5.0,2002.0,True,False,False,https://www.nekretnine.rs/oglasi/97805/
+260000.0,82.0,3.0,Beograd,Čukarica,5.0,5.0,1989.0,True,True,False,https://www.nekretnine.rs/oglasi/72227/
+167000.0,45.0,3.0,Beograd,Stari Grad,,5.0,,False,False,False,https://www.nekretnine.rs/oglasi/1005315/
+230000.0,64.0,3.0,Beograd,Novi Beograd,3.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1051705/
+155000.0,51.0,3.0,Beograd,Zvezdara,4.0,4.0,,False,True,True,https://www.nekretnine.rs/oglasi/1047595/
+99950.0,48.0,2.0,Beograd,Rakovica,10.0,10.0,,True,False,False,https://www.nekretnine.rs/oglasi/1067593/
+295000.0,106.0,3.0,Beograd,Čukarica,0.0,1.0,1958.0,False,True,False,https://www.nekretnine.rs/oglasi/98279/
+228000.0,66.0,3.0,Beograd,Vračar,,3.0,,False,False,False,https://www.nekretnine.rs/oglasi/1041869/
+85000.0,54.0,2.0,Beograd,Zvezdara,,4.0,2026.0,False,True,False,https://www.nekretnine.rs/oglasi/87569/
+196000.0,54.0,3.0,Beograd,Zvezdara,5.0,8.0,,False,True,False,https://www.nekretnine.rs/oglasi/1058727/
+330000.0,48.0,1.0,Beograd,Stari Grad,1.0,6.0,1960.0,True,True,False,https://www.nekretnine.rs/oglasi/97923/
+310000.0,119.0,5.0,Beograd,Zemun,2.0,3.0,2012.0,False,True,True,https://www.nekretnine.rs/oglasi/73841/
+380000.0,252.0,6.0,Beograd,Zvezdara,3.0,3.0,,False,True,True,https://www.nekretnine.rs/oglasi/30789/
+140000.0,41.0,2.0,Beograd,Zemun,2.0,11.0,,True,True,False,https://www.nekretnine.rs/oglasi/1055351/
+419000.0,108.0,3.0,Beograd,Palilula,2.0,3.0,1930.0,False,True,False,https://www.nekretnine.rs/oglasi/98281/
+105000.0,47.0,3.0,Beograd,Rakovica,3.0,4.0,2013.0,False,True,True,https://www.nekretnine.rs/oglasi/998901/
+258000.0,57.0,2.0,Beograd,Stari Grad,0.0,2.0,1927.0,False,False,True,https://www.nekretnine.rs/oglasi/1031529/
+200000.0,40.0,2.0,Beograd,Novi Beograd,,8.0,,False,False,False,https://www.nekretnine.rs/oglasi/1055581/
+320000.0,82.0,3.0,Beograd,Vračar,2.0,2.0,1935.0,False,False,False,https://www.nekretnine.rs/oglasi/1046537/
+278000.0,136.0,6.0,Beograd,Palilula,4.0,4.0,1975.0,False,True,False,https://www.nekretnine.rs/oglasi/1016193/
+252360.0,63.0,3.0,Beograd,Voždovac,4.0,8.0,2025.0,True,True,True,https://www.nekretnine.rs/oglasi/1007729/
+410000.0,83.0,3.0,Beograd,Novi Beograd,4.0,7.0,,True,True,False,https://www.nekretnine.rs/oglasi/1029317/
+169900.0,61.0,3.0,Beograd,Novi Beograd,6.0,6.0,,False,False,False,https://www.nekretnine.rs/oglasi/1044271/
+310000.0,73.0,3.0,Beograd,Vračar,1.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1031703/
+225403.0,88.0,3.0,Beograd,Zvezdara,8.0,8.0,2022.0,True,True,True,https://www.nekretnine.rs/oglasi/828745/
+109000.0,44.0,1.0,Beograd,Novi Beograd,,3.0,,False,True,True,https://www.nekretnine.rs/oglasi/97615/
+250000.0,70.0,4.0,Beograd,Voždovac,2.0,3.0,2025.0,True,True,True,https://www.nekretnine.rs/oglasi/74003/
+247500.0,99.0,4.0,Beograd,Voždovac,2.0,2.0,2004.0,False,True,True,https://www.nekretnine.rs/oglasi/97931/
+96000.0,33.0,1.0,Beograd,Surčin,1.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97363/
+124000.0,39.0,2.0,Beograd,Zvezdara,,3.0,,False,False,False,https://www.nekretnine.rs/oglasi/30705/
+242000.0,57.0,2.0,Beograd,Vračar,0.0,5.0,2024.0,True,True,False,https://www.nekretnine.rs/oglasi/97949/
+74000.0,33.0,2.0,Beograd,Rakovica,,4.0,,False,False,True,https://www.nekretnine.rs/oglasi/1027125/
+199000.0,58.0,3.0,Beograd,Zvezdara,3.0,3.0,2011.0,False,False,False,https://www.nekretnine.rs/oglasi/1043179/
+114000.0,37.0,2.0,Beograd,Zvezdara,1.0,1.0,1950.0,False,False,False,https://www.nekretnine.rs/oglasi/1019473/
+139000.0,94.0,3.0,Beograd,Surčin,1.0,1.0,2011.0,False,True,True,https://www.nekretnine.rs/oglasi/74967/
+388000.0,86.0,4.0,Beograd,Vračar,1.0,4.0,2023.0,False,True,False,https://www.nekretnine.rs/oglasi/47133/
+207500.0,62.0,2.0,Beograd,Zemun,8.0,11.0,,True,True,False,https://www.nekretnine.rs/oglasi/1052599/
+375000.0,71.0,3.0,Beograd,Vračar,3.0,4.0,2024.0,True,True,True,https://www.nekretnine.rs/oglasi/62021/
+148500.0,62.0,3.0,Beograd,Surčin,,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1012953/
+228000.0,61.0,2.0,Beograd,Zvezdara,1.0,3.0,1965.0,False,True,False,https://www.nekretnine.rs/oglasi/98245/
+420000.0,74.0,3.0,Beograd,Vračar,1.0,6.0,1962.0,True,False,False,https://www.nekretnine.rs/oglasi/61497/
+310000.0,92.0,4.0,Beograd,Voždovac,1.0,5.0,,True,True,True,https://www.nekretnine.rs/oglasi/1055367/
+349500.0,105.0,4.0,Beograd,Čukarica,4.0,6.0,1995.0,True,True,False,https://www.nekretnine.rs/oglasi/1054543/
+349500.0,105.0,4.0,Beograd,Čukarica,4.0,6.0,1997.0,False,True,True,https://www.nekretnine.rs/oglasi/1046549/
+419000.0,105.0,3.0,Beograd,Vračar,5.0,6.0,1968.0,True,True,False,https://www.nekretnine.rs/oglasi/66797/
+340000.0,125.0,5.0,Beograd,Novi Beograd,,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/30495/
+123000.0,34.0,2.0,Beograd,Savski Venac,,2.0,,False,False,True,https://www.nekretnine.rs/oglasi/1025785/
+420000.0,123.0,4.0,Beograd,Čukarica,1.0,4.0,2017.0,False,True,True,https://www.nekretnine.rs/oglasi/1019469/
+305000.0,61.0,2.0,Beograd,Vračar,0.0,4.0,2000.0,True,False,False,https://www.nekretnine.rs/oglasi/98275/
+131600.0,47.0,2.0,Beograd,Surčin,4.0,4.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97467/
+349800.0,101.0,5.0,Beograd,Čukarica,1.0,5.0,1930.0,True,False,False,https://www.nekretnine.rs/oglasi/98135/
+330000.0,92.0,4.0,Beograd,Zvezdara,2.0,,,True,True,False,https://www.nekretnine.rs/oglasi/1002793/
+322000.0,92.0,4.0,Beograd,Vračar,3.0,6.0,,False,False,False,https://www.nekretnine.rs/oglasi/1020451/
+320000.0,143.0,6.0,Beograd,Voždovac,3.0,3.0,,False,True,True,https://www.nekretnine.rs/oglasi/36739/
+84900.0,33.0,2.0,Beograd,Voždovac,,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/1020189/
+399000.0,62.0,2.0,Beograd,Novi Beograd,30.0,30.0,,True,False,True,https://www.nekretnine.rs/oglasi/43379/
+245000.0,104.0,3.0,Beograd,Zvezdara,2.0,,2003.0,False,False,False,https://www.nekretnine.rs/oglasi/1031497/
+230000.0,58.0,2.0,Beograd,Vračar,1.0,5.0,,True,True,True,https://www.nekretnine.rs/oglasi/1034475/
+80850.0,49.0,2.0,Beograd,Zemun,,4.0,,False,True,True,https://www.nekretnine.rs/oglasi/33177/
+115000.0,35.0,1.0,Beograd,Čukarica,,2.0,,False,True,False,https://www.nekretnine.rs/oglasi/1053239/
+129900.0,47.0,2.0,Beograd,Zvezdara,0.0,4.0,2012.0,True,True,True,https://www.nekretnine.rs/oglasi/5415/
+301600.0,115.0,4.0,Beograd,Voždovac,1.0,2.0,2004.0,False,True,True,https://www.nekretnine.rs/oglasi/97819/
+120000.0,40.0,2.0,Beograd,Vračar,4.0,4.0,1965.0,False,True,False,https://www.nekretnine.rs/oglasi/1007877/
+250000.0,58.0,2.0,Beograd,Stari Grad,7.0,8.0,1966.0,True,True,False,https://www.nekretnine.rs/oglasi/1031533/
+187000.0,41.0,2.0,Beograd,Rakovica,1.0,7.0,1980.0,True,True,False,https://www.nekretnine.rs/oglasi/97945/
+122000.0,50.0,2.0,Beograd,Čukarica,4.0,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/1008595/
+396000.0,99.0,4.0,Beograd,Novi Beograd,1.0,16.0,1965.0,True,True,True,https://www.nekretnine.rs/oglasi/75833/
+650000.0,200.0,5.0,Beograd,Zemun,0.0,1.0,2002.0,False,True,False,https://www.nekretnine.rs/oglasi/61865/
+200000.0,78.0,4.0,Beograd,Čukarica,,1.0,,False,True,True,https://www.nekretnine.rs/oglasi/31841/
+215000.0,94.0,4.0,Beograd,Rakovica,,12.0,,True,True,False,https://www.nekretnine.rs/oglasi/1029109/
+410000.0,83.0,3.0,Beograd,Novi Beograd,4.0,7.0,,True,True,False,https://www.nekretnine.rs/oglasi/1008107/
+250000.0,103.0,4.0,Beograd,Zvezdara,,7.0,,True,True,False,https://www.nekretnine.rs/oglasi/1053805/
+399000.0,65.0,3.0,Beograd,Vračar,2.0,7.0,2010.0,True,True,True,https://www.nekretnine.rs/oglasi/97827/
+88000.0,31.0,1.0,Beograd,Rakovica,4.0,4.0,2010.0,False,False,False,https://www.nekretnine.rs/oglasi/1054555/
+285000.0,64.0,2.0,Beograd,Vračar,1.0,5.0,1970.0,True,True,False,https://www.nekretnine.rs/oglasi/98137/
+590000.0,95.0,3.0,Beograd,Novi Beograd,4.0,40.0,2023.0,True,False,True,https://www.nekretnine.rs/oglasi/1019487/
+855000.0,203.0,6.0,Beograd,Savski Venac,1.0,4.0,1939.0,True,True,True,https://www.nekretnine.rs/oglasi/1011727/
+164000.0,36.0,1.0,Beograd,Čukarica,3.0,8.0,1960.0,True,False,False,https://www.nekretnine.rs/oglasi/98067/
+285000.0,64.0,2.0,Beograd,Vračar,1.0,,,False,True,False,https://www.nekretnine.rs/oglasi/1067345/
+73000.0,48.0,1.0,Beograd,Zemun,,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1056107/
+330000.0,135.0,4.0,Beograd,Čukarica,1.0,3.0,2000.0,False,True,True,https://www.nekretnine.rs/oglasi/1043169/
+300000.0,60.0,2.0,Beograd,Stari Grad,4.0,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/1022761/
+419000.0,109.0,3.0,Beograd,Palilula,2.0,2.0,1930.0,False,True,True,https://www.nekretnine.rs/oglasi/61687/
+950000.0,220.0,6.0,Beograd,Savski Venac,,2.0,,False,False,True,https://www.nekretnine.rs/oglasi/22477/
+235666.0,69.0,3.0,Beograd,Zemun,1.0,1.0,2026.0,False,True,True,https://www.nekretnine.rs/oglasi/1014873/
+271149.0,79.0,2.0,Beograd,Zemun,0.0,1.0,2026.0,False,False,True,https://www.nekretnine.rs/oglasi/1029205/
+73000.0,18.0,1.0,Beograd,Zemun,1.0,1.0,,False,True,True,https://www.nekretnine.rs/oglasi/1022885/
+320000.0,81.0,3.0,Beograd,Savski Venac,3.0,4.0,,True,True,False,https://www.nekretnine.rs/oglasi/1016165/
+300000.0,50.0,2.0,Beograd,Stari Grad,,5.0,,False,False,False,https://www.nekretnine.rs/oglasi/1028543/
+206900.0,92.0,3.0,Beograd,Voždovac,5.0,11.0,,True,True,False,https://www.nekretnine.rs/oglasi/1016861/
+1050000.0,130.0,5.0,Beograd,Savski Venac,3.0,4.0,2015.0,False,True,False,https://www.nekretnine.rs/oglasi/72193/
+202824.0,76.0,3.0,Beograd,Rakovica,7.0,7.0,2027.0,True,True,True,https://www.nekretnine.rs/oglasi/1002967/
+391620.0,107.0,4.0,Beograd,Novi Beograd,12.0,21.0,,True,True,False,https://www.nekretnine.rs/oglasi/74973/
+275000.0,85.0,3.0,Beograd,Vračar,3.0,1.0,,False,True,False,https://www.nekretnine.rs/oglasi/22443/
+450000.0,113.0,4.0,Beograd,Stari Grad,2.0,5.0,,True,False,False,https://www.nekretnine.rs/oglasi/22723/
+103400.0,47.0,2.0,Beograd,Surčin,2.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/23751/
+220000.0,88.0,3.0,Beograd,Novi Beograd,14.0,14.0,,True,True,False,https://www.nekretnine.rs/oglasi/1051661/
+149000.0,50.0,3.0,Beograd,Vračar,4.0,3.0,,False,False,False,https://www.nekretnine.rs/oglasi/31843/
+225321.0,77.0,3.0,Beograd,Rakovica,7.0,7.0,2027.0,True,True,True,https://www.nekretnine.rs/oglasi/1049895/
+164900.0,50.0,2.0,Beograd,Novi Beograd,2.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1016603/
+341066.0,98.0,4.0,Beograd,Novi Beograd,7.0,10.0,,True,True,False,https://www.nekretnine.rs/oglasi/73123/
+252000.0,56.0,2.0,Beograd,Vračar,1.0,6.0,,True,False,False,https://www.nekretnine.rs/oglasi/32021/
+177000.0,43.0,2.0,Beograd,Zvezdara,1.0,7.0,,True,True,False,https://www.nekretnine.rs/oglasi/1008593/
+290000.0,92.0,3.0,Beograd,Rakovica,1.0,7.0,,False,True,False,https://www.nekretnine.rs/oglasi/1043183/
+93060.0,47.0,2.0,Beograd,Grocka,1.0,3.0,,True,True,False,https://www.nekretnine.rs/oglasi/1055205/
+315000.0,76.0,2.0,Beograd,Stari Grad,5.0,5.0,,True,False,False,https://www.nekretnine.rs/oglasi/61889/
+324000.0,59.0,2.0,Beograd,Stari Grad,1.0,6.0,1960.0,True,True,False,https://www.nekretnine.rs/oglasi/98151/
+825000.0,158.0,4.0,Beograd,Vračar,1.0,5.0,,True,True,True,https://www.nekretnine.rs/oglasi/65781/
+87000.0,66.0,3.0,Beograd,Barajevo,,,1983.0,False,True,True,https://www.nekretnine.rs/oglasi/1055589/
+300000.0,94.0,3.0,Beograd,Savski Venac,1.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1054145/
+319000.0,65.0,3.0,Beograd,Stari Grad,3.0,6.0,,False,True,True,https://www.nekretnine.rs/oglasi/1051201/
+177000.0,64.0,2.0,Beograd,Rakovica,0.0,11.0,,True,True,False,https://www.nekretnine.rs/oglasi/1019503/
+350000.0,106.0,4.0,Beograd,Vračar,1.0,1.0,,False,True,False,https://www.nekretnine.rs/oglasi/74791/
+303400.0,82.0,4.0,Beograd,Voždovac,5.0,5.0,,True,True,False,https://www.nekretnine.rs/oglasi/1023489/
+520000.0,103.0,4.0,Beograd,Voždovac,3.0,4.0,2020.0,True,True,True,https://www.nekretnine.rs/oglasi/1016635/
+479000.0,353.0,5.0,Beograd,Zemun,,4.0,2024.0,False,False,True,https://www.nekretnine.rs/oglasi/30517/
+650000.0,145.0,4.0,Beograd,Savski Venac,1.0,1.0,,False,True,True,https://www.nekretnine.rs/oglasi/75877/
+300000.0,50.0,2.0,Beograd,Stari Grad,0.0,5.0,1935.0,False,False,False,https://www.nekretnine.rs/oglasi/98287/
+275000.0,64.0,3.0,Beograd,Voždovac,,,2025.0,False,True,False,https://www.nekretnine.rs/oglasi/30697/
+320000.0,100.0,4.0,Beograd,Voždovac,4.0,6.0,,True,False,True,https://www.nekretnine.rs/oglasi/1055417/
+849000.0,174.0,4.0,Beograd,Stari Grad,2.0,3.0,,True,True,True,https://www.nekretnine.rs/oglasi/1047971/
+152000.0,45.0,1.0,Beograd,Zvezdara,3.0,5.0,1975.0,True,True,False,https://www.nekretnine.rs/oglasi/1019491/
+169000.0,44.0,2.0,Beograd,Vračar,0.0,4.0,1935.0,False,False,False,https://www.nekretnine.rs/oglasi/1007891/
+130000.0,64.0,2.0,Beograd,Zvezdara,0.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/80525/
+270000.0,56.0,2.0,Beograd,Palilula,1.0,6.0,,True,False,True,https://www.nekretnine.rs/oglasi/1032327/
+210000.0,70.0,2.0,Beograd,Čukarica,0.0,4.0,,False,False,False,https://www.nekretnine.rs/oglasi/85179/
+570000.0,123.0,4.0,Beograd,Stari Grad,5.0,6.0,,True,False,True,https://www.nekretnine.rs/oglasi/1008637/
+354280.0,89.0,3.0,Beograd,Zvezdara,3.0,6.0,,True,False,True,https://www.nekretnine.rs/oglasi/1046221/
+110880.0,56.0,3.0,Beograd,Grocka,1.0,3.0,,True,True,False,https://www.nekretnine.rs/oglasi/1016271/
+124500.0,38.0,2.0,Beograd,Zvezdara,,6.0,2019.0,True,True,False,https://www.nekretnine.rs/oglasi/1010649/
+310000.0,467.0,10.0,Beograd,Zvezdara,,4.0,2000.0,False,True,True,https://www.nekretnine.rs/oglasi/55315/
+269000.0,88.0,3.0,Beograd,Čukarica,1.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/1018523/
+410000.0,99.0,3.0,Beograd,Novi Beograd,3.0,10.0,,True,True,False,https://www.nekretnine.rs/oglasi/95407/
+672000.0,73.0,2.0,Beograd,Savski Venac,27.0,42.0,,True,True,True,https://www.nekretnine.rs/oglasi/46967/
+423200.0,92.0,4.0,Beograd,Stari Grad,4.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/31221/
+231000.0,77.0,3.0,Beograd,Voždovac,,4.0,1970.0,False,True,False,https://www.nekretnine.rs/oglasi/30475/
+209000.0,76.0,3.0,Beograd,Zemun,5.0,6.0,,False,True,False,https://www.nekretnine.rs/oglasi/1008087/
+250000.0,47.0,2.0,Beograd,Stari Grad,5.0,10.0,,False,False,False,https://www.nekretnine.rs/oglasi/1059647/
+187000.0,80.0,4.0,Beograd,Zvezdara,23.0,27.0,,False,True,False,https://www.nekretnine.rs/oglasi/1006685/
+102960.0,52.0,3.0,Beograd,Grocka,1.0,3.0,,True,True,True,https://www.nekretnine.rs/oglasi/1051257/
+380000.0,142.0,4.0,Beograd,Savski Venac,1.0,2.0,2009.0,False,True,True,https://www.nekretnine.rs/oglasi/98031/
+505000.0,132.0,5.0,Beograd,Vračar,0.0,2.0,,False,True,False,https://www.nekretnine.rs/oglasi/65511/
+237990.0,63.0,3.0,Beograd,Novi Beograd,2.0,,,True,True,True,https://www.nekretnine.rs/oglasi/1050485/
+249000.0,52.0,2.0,Beograd,Novi Beograd,7.0,13.0,,True,True,False,https://www.nekretnine.rs/oglasi/1014139/
+255000.0,69.0,3.0,Beograd,Vračar,1.0,4.0,1960.0,False,True,False,https://www.nekretnine.rs/oglasi/1043175/
+231000.0,48.0,2.0,Beograd,Voždovac,2.0,5.0,2021.0,True,True,False,https://www.nekretnine.rs/oglasi/1043173/
+215000.0,48.0,2.0,Beograd,Novi Beograd,16.0,19.0,,True,True,False,https://www.nekretnine.rs/oglasi/1058895/
+105000.0,30.0,1.0,Beograd,Stari Grad,0.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/72061/
+888000.0,170.0,8.0,Beograd,Stari Grad,5.0,6.0,,False,False,False,https://www.nekretnine.rs/oglasi/1019703/
+263400.0,60.0,2.0,Beograd,Novi Beograd,4.0,10.0,,True,True,True,https://www.nekretnine.rs/oglasi/1007983/
+327000.0,90.0,3.0,Beograd,Voždovac,6.0,9.0,,True,True,True,https://www.nekretnine.rs/oglasi/1054395/
+148000.0,28.0,1.0,Beograd,Stari Grad,0.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/1039665/
+315000.0,159.0,6.0,Beograd,Čukarica,1.0,2.0,1970.0,False,True,False,https://www.nekretnine.rs/oglasi/1031589/
+290000.0,54.0,2.0,Beograd,Savski Venac,5.0,15.0,,True,True,True,https://www.nekretnine.rs/oglasi/47351/
+219900.0,79.0,3.0,Beograd,Čukarica,5.0,5.0,,True,True,False,https://www.nekretnine.rs/oglasi/1051465/
+187000.0,77.0,3.0,Beograd,Savski Venac,5.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1028123/
+190000.0,180.0,4.0,Beograd,Zvezdara,5.0,5.0,,True,False,False,https://www.nekretnine.rs/oglasi/1003485/
+109500.0,40.0,2.0,Beograd,Surčin,0.0,3.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97619/
+325000.0,69.0,3.0,Beograd,Vračar,3.0,8.0,2023.0,True,True,False,https://www.nekretnine.rs/oglasi/1031689/
+598000.0,109.0,4.0,Beograd,Stari Grad,4.0,6.0,,True,True,False,https://www.nekretnine.rs/oglasi/75749/
+235000.0,106.0,4.0,Beograd,Rakovica,6.0,7.0,,False,False,False,https://www.nekretnine.rs/oglasi/63297/
+180000.0,104.0,5.0,Beograd,Čukarica,,4.0,1998.0,False,True,True,https://www.nekretnine.rs/oglasi/1041809/
+323000.0,86.0,4.0,Beograd,Novi Beograd,4.0,5.0,,True,True,False,https://www.nekretnine.rs/oglasi/1043935/
+695000.0,122.0,4.0,Beograd,Stari Grad,4.0,5.0,,True,True,True,https://www.nekretnine.rs/oglasi/75741/
+327000.0,90.0,3.0,Beograd,Voždovac,6.0,9.0,,True,True,True,https://www.nekretnine.rs/oglasi/1053337/
+170000.0,33.0,2.0,Beograd,Stari Grad,3.0,4.0,,False,True,False,https://www.nekretnine.rs/oglasi/91475/
+163900.0,51.0,3.0,Beograd,Stari Grad,,,1990.0,False,False,True,https://www.nekretnine.rs/oglasi/42341/
+310000.0,91.0,4.0,Beograd,Voždovac,,,2025.0,False,True,False,https://www.nekretnine.rs/oglasi/30957/
+486000.0,108.0,3.0,Beograd,Savski Venac,3.0,3.0,,False,False,True,https://www.nekretnine.rs/oglasi/1032255/
+237900.0,80.0,3.0,Beograd,Zvezdara,3.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/74853/
+204400.0,73.0,3.0,Beograd,Zemun,1.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1007921/
+1300000.0,400.0,5.0,Beograd,Čukarica,0.0,2.0,,False,False,True,https://www.nekretnine.rs/oglasi/1004337/
+173000.0,55.0,3.0,Beograd,Rakovica,3.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1061003/
+115000.0,35.0,2.0,Beograd,Novi Beograd,2.0,2.0,2022.0,False,True,True,https://www.nekretnine.rs/oglasi/1008383/
+93000.0,62.0,2.0,Beograd,Palilula,,2.0,1990.0,False,False,False,https://www.nekretnine.rs/oglasi/72123/
+400000.0,66.0,2.0,Beograd,Savski Venac,1.0,16.0,,True,True,True,https://www.nekretnine.rs/oglasi/22661/
+126000.0,35.0,1.0,Beograd,Zvezdara,5.0,5.0,,False,True,False,https://www.nekretnine.rs/oglasi/1060833/
+565000.0,145.0,4.0,Beograd,Zvezdara,5.0,5.0,2025.0,True,True,True,https://www.nekretnine.rs/oglasi/1041747/
+350000.0,57.0,2.0,Beograd,Savski Venac,5.0,16.0,,True,False,False,https://www.nekretnine.rs/oglasi/22711/
+415000.0,110.0,4.0,Beograd,Zvezdara,5.0,6.0,2007.0,True,True,False,https://www.nekretnine.rs/oglasi/61789/
+498888.0,92.0,3.0,Beograd,Savski Venac,5.0,21.0,2022.0,True,True,True,https://www.nekretnine.rs/oglasi/65707/
+320000.0,82.0,3.0,Beograd,Vračar,2.0,2.0,1930.0,False,True,False,https://www.nekretnine.rs/oglasi/1028085/
+498000.0,120.0,4.0,Beograd,Stari Grad,0.0,4.0,1924.0,False,True,False,https://www.nekretnine.rs/oglasi/67763/
+500000.0,165.0,4.0,Beograd,Stari Grad,6.0,6.0,2018.0,True,True,True,https://www.nekretnine.rs/oglasi/64891/
+465000.0,110.0,5.0,Beograd,Stari Grad,3.0,4.0,1996.0,False,False,False,https://www.nekretnine.rs/oglasi/1034871/
+199900.0,64.0,3.0,Beograd,Novi Beograd,18.0,19.0,,True,True,False,https://www.nekretnine.rs/oglasi/1019723/
+465000.0,110.0,4.0,Beograd,Stari Grad,3.0,4.0,1995.0,False,True,False,https://www.nekretnine.rs/oglasi/74867/
+150000.0,68.0,3.0,Beograd,Palilula,4.0,4.0,1981.0,False,True,True,https://www.nekretnine.rs/oglasi/67385/
+470000.0,118.0,4.0,Beograd,Vračar,1.0,7.0,,True,True,True,https://www.nekretnine.rs/oglasi/1053695/
+280000.0,57.0,2.0,Beograd,Savski Venac,4.0,4.0,1982.0,False,True,False,https://www.nekretnine.rs/oglasi/68627/
+360000.0,70.0,2.0,Beograd,Vračar,4.0,3.0,,False,True,False,https://www.nekretnine.rs/oglasi/1058741/
+228000.0,66.0,3.0,Beograd,Zvezdara,,5.0,,False,False,False,https://www.nekretnine.rs/oglasi/1040465/
+399000.0,83.0,3.0,Beograd,Vračar,5.0,5.0,,True,True,True,https://www.nekretnine.rs/oglasi/1029709/
+410000.0,99.0,3.0,Beograd,Novi Beograd,3.0,10.0,2024.0,True,True,False,https://www.nekretnine.rs/oglasi/62243/
+370000.0,157.0,4.0,Beograd,Zvezdara,5.0,6.0,2010.0,True,True,False,https://www.nekretnine.rs/oglasi/1048171/
+2800.0,1.0,2.0,Beograd,Surčin,3.0,4.0,2025.0,False,True,True,https://www.nekretnine.rs/oglasi/97613/
+119900.0,47.0,1.0,Beograd,Novi Beograd,6.0,6.0,1956.0,False,True,True,https://www.nekretnine.rs/oglasi/68727/
+375000.0,108.0,3.0,Beograd,Zvezdara,0.0,5.0,2006.0,True,True,False,https://www.nekretnine.rs/oglasi/67823/
+300000.0,113.0,4.0,Beograd,Palilula,4.0,5.0,2019.0,True,True,True,https://www.nekretnine.rs/oglasi/67761/
+322000.0,94.0,3.0,Beograd,Voždovac,3.0,3.0,2024.0,True,False,False,https://www.nekretnine.rs/oglasi/1016179/
+420000.0,92.0,3.0,Beograd,Zvezdara,8.0,8.0,2024.0,True,True,True,https://www.nekretnine.rs/oglasi/65847/
+219626.0,60.0,2.0,Beograd,Savski Venac,2.0,3.0,2025.0,True,False,True,https://www.nekretnine.rs/oglasi/66905/
+180000.0,68.0,4.0,Beograd,Voždovac,7.0,8.0,2021.0,True,True,False,https://www.nekretnine.rs/oglasi/1035441/
+1181900.0,223.0,5.0,Beograd,Vračar,3.0,4.0,2025.0,True,True,False,https://www.nekretnine.rs/oglasi/68695/
+485000.0,105.0,4.0,Beograd,Vračar,1.0,5.0,1939.0,True,True,True,https://www.nekretnine.rs/oglasi/65937/
+498888.0,92.0,3.0,Beograd,Savski Venac,5.0,21.0,2022.0,True,True,True,https://www.nekretnine.rs/oglasi/64863/
+293636.0,97.0,3.0,Beograd,Zemun,2.0,3.0,2025.0,True,True,True,https://www.nekretnine.rs/oglasi/5405/
+104000.0,35.0,2.0,Beograd,Čukarica,5.0,6.0,2008.0,True,True,False,https://www.nekretnine.rs/oglasi/1039567/
+600000.0,156.0,5.0,Beograd,Stari Grad,8.0,8.0,1963.0,True,True,False,https://www.nekretnine.rs/oglasi/66755/
+760000.0,174.0,6.0,Beograd,Vračar,5.0,5.0,2023.0,True,True,True,https://www.nekretnine.rs/oglasi/67657/
