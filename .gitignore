@@ -43,7 +43,8 @@ venv.bak/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
+# Keep project notebooks tracked
+!jupiternotes.ipynb
 
 # Environment variables
 .env
